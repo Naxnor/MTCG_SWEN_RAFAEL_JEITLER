@@ -29,3 +29,4 @@ F:\MTCG_SWEN_RAFAEL_JEITLER\MTCG\bin\Debug\net8.0\Npgsql.dll
 F:\MTCG_SWEN_RAFAEL_JEITLER\MTCG\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 F:\MTCG_SWEN_RAFAEL_JEITLER\MTCG\obj\Debug\net8.0\MTCG.csproj.AssemblyReference.cache
 F:\MTCG_SWEN_RAFAEL_JEITLER\MTCG\obj\Debug\net8.0\MTCG.csproj.CopyComplete
+F:\MTCG_SWEN_RAFAEL_JEITLER\MTCG\obj\Debug\net8.0\MTCG.sourcelink.json

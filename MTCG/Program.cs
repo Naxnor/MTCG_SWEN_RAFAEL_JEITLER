@@ -32,8 +32,11 @@ namespace MTCG
             }
             else if (e.Path.StartsWith("/users") && e.Method.Equals("GET"))
             {
-                // Call the GetUser method for GET requests
                 _userController.GetUser(e);
+            }
+            else if (e.Path.StartsWith("/session") && e.Method.Equals("POST"))
+            {
+                _userController.LoginUser(e);
             }
             //Console.WriteLine(e.PlainMessage);
 

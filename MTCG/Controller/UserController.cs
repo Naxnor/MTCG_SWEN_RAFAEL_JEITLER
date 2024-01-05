@@ -8,6 +8,7 @@ namespace MTCG.Controller;
 public class UserController
 {
     private UserRepository _userRepository = new UserRepository();
+
     public void CreateUser(HttpSvrEventArgs e)
     {
         var user = JsonConvert.DeserializeObject<User>(e.Payload);
@@ -15,24 +16,57 @@ public class UserController
         try
         {
             _userRepository.CreateUser(user);
-            e.Reply(201,"User Created");
+            e.Reply(201, "User Created");
         }
         catch (Exception exception)
         {
             Console.WriteLine(exception);
-            e.Reply(409,"User Already Exists");
+            e.Reply(409, "User Already Exists");
         }
     }
-    
+
+    public void LoginUser(HttpSvrEventArgs e)
+    {
+        try
+        {
+            var formname = JsonConvert.DeserializeObject<User>(e.Payload);
+            if (formname == null || string.IsNullOrWhiteSpace(formname.Username) ||
+                string.IsNullOrWhiteSpace(formname.Password))
+            {
+                e.Reply(400, "Invalid request");
+                return;
+            }
+
+            bool isAuthenticated = _userRepository.AuthenticateUser(formname.Username, formname.Password);
+            if (isAuthenticated)
+            {
+                string token = GenerateSimpleToken(formname.Username);
+                e.Reply(200, JsonConvert.SerializeObject(new { Token = token }));
+            }
+            else
+            {
+                e.Reply(401, "Unauthorized: Incorrect username or password");
+            }
+        }
+        catch (Exception)
+        {
+            e.Reply(500, "Internal server error");
+        }
+    }
+
+    private string GenerateSimpleToken(string FormUsername)
+    {
+        string token = FormUsername + "-mtcgToken";
+        return token;
+    }
+
     public void GetUser(HttpSvrEventArgs e)
     {
-        
         if (!e.Parameters.TryGetValue("username", out string username))
         {
             e.Reply(400, "Bad Request: Username is required");
             return;
         }
-        
 
         if (!IsAuthorized(e, username))
         {
@@ -51,8 +85,8 @@ public class UserController
                     Bio = user.Bio,
                     Image = user.Image
                 };
-                
-                e.Reply(200, JsonConvert.SerializeObject(userData));
+
+                e.Reply(200, JsonConvert.SerializeObject(new { userData.Name, userData.Bio, userData.Image }));
             }
             else
             {
@@ -76,11 +110,12 @@ public class UserController
         var requestingUser = ValidateTokenAndGetUser(authToken);
 
         // Check if the user is authorized
-        if (requestingUser != null && (requestingUser.Username == username || requestingUser.IsAdmin))
+        if (requestingUser != null && (requestingUser.Username == username || requestingUser.Username == "admin"))
         {
             return true;
         }
-        return true; ///////////nicht vergessen only true bis login / tokens gehen /////
+
+        return false; 
     }
 
 // Placeholder method to extract the authentication token from the headers
@@ -97,14 +132,22 @@ public class UserController
                     : header.Value;
             }
         }
+
         return null;
     }
 
 // Placeholder method to validate the token and get the user
     private User ValidateTokenAndGetUser(string token)
     {
-        // Implement the logic to validate the token and get the user details
-        // Return the user if the token is valid; otherwise, return null
-        return new User(); // Return a valid user object for now
+        var tokenParts = token.Split('-');
+        if (tokenParts.Length > 1)
+        {
+            var extractedUsername = tokenParts[0];
+            
+                var user = _userRepository.GetUserByUsername(extractedUsername);
+                return user;
+        }
+        return null; // Token format is incorrect or user not found
     }
 }
+  

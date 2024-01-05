@@ -11,8 +11,7 @@ CREATE TABLE IF NOT EXISTS users (
     coins           integer default 20,
     elo             INTEGER DEFAULT 1000,
     wins            INTEGER DEFAULT 0,
-    losses          INTEGER DEFAULT 0,
-    IsAdmin         BOOLEAN DEFAULT FALSE
+    losses          INTEGER DEFAULT 0
     
     );
 
