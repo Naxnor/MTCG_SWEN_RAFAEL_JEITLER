@@ -1,4 +1,5 @@
-﻿using MTCG.Server;
+﻿using MTCG.Controller;
+using MTCG.Server;
 
 namespace MTCG
 {
@@ -24,9 +25,19 @@ namespace MTCG
         /// <param name="e">Event arguments.</param>
         private static void _ProcessMessage(object sender, HttpSvrEventArgs e)
         {
-            Console.WriteLine(e.PlainMessage);
+            UserController _userController = new UserController();
+            if (e.Path.StartsWith("/users" )&& e.Method.Equals("POST"))
+            {
+                _userController.CreateUser(e);
+            }
+            else if (e.Path.StartsWith("/users") && e.Method.Equals("GET"))
+            {
+                // Call the GetUser method for GET requests
+                _userController.GetUser(e);
+            }
+            //Console.WriteLine(e.PlainMessage);
 
-            e.Reply(200, "Yo! Understood.");
+            //e.Reply(200, "Yo! Understood.");
             
         }
     }

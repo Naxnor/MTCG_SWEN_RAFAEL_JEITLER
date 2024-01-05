@@ -1,7 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Net.Sockets;
 using System.Text;
-
 
 
 namespace MTCG.Server
@@ -25,6 +25,7 @@ namespace MTCG.Server
         /// <summary>Creates a new instance of this class.</summary>
         /// <param name="client">TCP client object.</param>
         /// <param name="plainMessage">HTTP plain message.</param>
+        public Dictionary<string, string> Parameters { get; private set; } = new Dictionary<string, string>();
         public HttpSvrEventArgs(TcpClient client, string plainMessage) 
         {
             _Client = client;
@@ -59,6 +60,18 @@ namespace MTCG.Server
             }
 
             Headers = headers.ToArray();
+            ParsePathForParameters(Path);
+        }
+        private void ParsePathForParameters(string path)
+        {
+            // Assuming path format is like /users/{username}
+            var segments = path.Trim('/').Split('/');
+            // The segments array should have at least 2 elements for /users/{username}
+            if (segments.Length >= 2 && segments[0].Equals("users", StringComparison.OrdinalIgnoreCase))
+            {
+                // Assuming that the username is the second segment
+                Parameters["username"] = segments[1];
+            }
         }
 
 
@@ -118,17 +131,50 @@ namespace MTCG.Server
             {
                 case 200:
                     data = "HTTP/1.1 200 OK\n"; break;
-                case 400:
-                    data = "HTTP/1.1 400 Bad Request\n"; break;
-                case 404:
-                    data = "HTTP/1.1 404 Not Found\n"; break;
                 case 201:
                     data = "HTTP/1.1 201 Created\n"; break;
+                case 400:
+                    data = "HTTP/1.1 400 Bad Request\n"; break;
+                case 401:
+                    data = "HTTP/1.1 401 Unauthorized\n"; break;
+                case 403:
+                    data = "HTTP/1.1 403 Forbidden\n"; break;
+                case 404:
+                    data = "HTTP/1.1 404 Not Found\n"; break;
                 case 409:
                     data = "HTTP/1.1 409 Conflict\n"; break;
+                case 500:
+                    data = "HTTP/1.1 500 Internal Server Error\n"; break;
+                case 503:
+                    data = "HTTP/1.1 503 Service Unavailable\n"; break;
+                case 204:
+                    data = "HTTP/1.1 204 No Content\n"; break;
+                case 301:
+                    data = "HTTP/1.1 301 Moved Permanently\n"; break;
+                case 302:
+                    data = "HTTP/1.1 302 Found\n"; break;
+                case 307:
+                    data = "HTTP/1.1 307 Temporary Redirect\n"; break;
+                case 308:
+                    data = "HTTP/1.1 308 Permanent Redirect\n"; break;
+                case 405:
+                    data = "HTTP/1.1 405 Method Not Allowed\n"; break;
+                case 406:
+                    data = "HTTP/1.1 406 Not Acceptable\n"; break;
+                case 412:
+                    data = "HTTP/1.1 412 Precondition Failed\n"; break;
+                case 415:
+                    data = "HTTP/1.1 415 Unsupported Media Type\n"; break;
+                case 429:
+                    data = "HTTP/1.1 429 Too Many Requests\n"; break;
+                case 451:
+                    data = "HTTP/1.1 451 Unavailable For Legal Reasons\n"; break;
+                case 418:
+                    data = "HTTP/1.1 418 I'm a Teapot\n"; break;
                 default:
                     data = "HTTP/1.1 418 I'm a Teapot\n"; break;
             }
+
             
             if(string.IsNullOrEmpty(payload)) 
             {
