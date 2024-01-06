@@ -41,11 +41,17 @@ public class UserController
             if (isAuthenticated)
             {
                 string token = GenerateSimpleToken(formname.Username);
-                e.Reply(200, JsonConvert.SerializeObject(new { Token = token }));
+                var responseContent = new 
+                {
+                    Token = token,
+                    Message = "User login successful"
+                };
+
+                e.Reply(200, JsonConvert.SerializeObject(responseContent));
             }
             else
             {
-                e.Reply(401, "Unauthorized: Incorrect username or password");
+                e.Reply(401, "Unauthorized: Incorrect username/password");
             }
         }
         catch (Exception)
@@ -70,7 +76,7 @@ public class UserController
 
         if (!IsAuthorized(e, username))
         {
-            e.Reply(401, "Unauthorized");
+            e.Reply(401, "Unauthorized! Access token is invalid");
             return;
         }
 
@@ -99,44 +105,100 @@ public class UserController
             e.Reply(500, "Internal Server Error");
         }
     }
-
-    private bool IsAuthorized(HttpSvrEventArgs e, string username)
+    public void UpdateUserData(HttpSvrEventArgs e)
     {
-        // Extract the authentication token from the request headers
-        var authToken = ExtractAuthToken(e.Headers);
-
-        // Validate the token and retrieve the user information
-        // This is a placeholder - you need to implement the actual token validation and user retrieval
-        var requestingUser = ValidateTokenAndGetUser(authToken);
-
-        // Check if the user is authorized
-        if (requestingUser != null && (requestingUser.Username == username || requestingUser.Username == "admin"))
+        // Get the Username out of URL path
+        if (!e.Parameters.TryGetValue("username", out string username))
         {
-            return true;
+            e.Reply(400, "Bad Request: Username is required");
+            return;
+        }
+        // Check for Token if false return 
+        if (!IsAuthorized(e, username))
+        {
+            e.Reply(401, "Unauthorized! Access token is invalid");
+            return;
         }
 
-        return false; 
+        try 
+        {
+            var updatedUserData = JsonConvert.DeserializeObject<User>(e.Payload);
+            if (updatedUserData == null) // if the required fields are empty
+            {
+                e.Reply(400, "Invalid request");
+                return;
+            }
+            
+            bool updateSuccessful = _userRepository.UpdateUser(username, updatedUserData);
+            if (updateSuccessful)
+            {
+                e.Reply(200, "User profile updated successfully");
+            }
+            else
+            {
+                e.Reply(404, "User not found");
+            }
+        }
+        catch (Exception)
+        {
+            e.Reply(500, "Internal server error");
+        }
     }
 
-// Placeholder method to extract the authentication token from the headers
+
+
+    
+    private bool IsAuthorized(HttpSvrEventArgs e, string username)
+    {
+        try
+        {
+            var authToken = ExtractAuthToken(e.Headers);
+
+            if (string.IsNullOrEmpty(authToken))
+            {
+                e.Reply(401, "Unauthorized! Access token is missing");
+                return false;
+            }
+
+            var requestingUser = ValidateTokenAndGetUser(authToken);
+
+            if (requestingUser != null && (requestingUser.Username == username || requestingUser.Username == "admin"))
+            {
+                return true;
+            }
+
+            return false;
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error in authorization: {ex.Message}");
+            e.Reply(500, "Internal Server Error");
+            return false;
+        }
+    }
+    
     private string ExtractAuthToken(HttpHeader[] headers)
     {
-        const string authHeaderKey = "Authorization";
+        const string authHeaderKey = "Authorization"; 
+        if (headers == null) 
+        {
+            return null;
+        }
+
         foreach (var header in headers)
         {
             if (header.Name.Equals(authHeaderKey, StringComparison.OrdinalIgnoreCase))
             {
-                // Assuming the scheme is "Bearer", strip it off here
-                return header.Value.StartsWith("Bearer ", StringComparison.OrdinalIgnoreCase)
-                    ? header.Value["Bearer ".Length..]
-                    : header.Value;
+                var headerValue = header.Value;
+                return headerValue.StartsWith("Bearer ", StringComparison.OrdinalIgnoreCase)
+                    ? headerValue["Bearer ".Length..]
+                    : headerValue;
             }
         }
 
         return null;
     }
-
-// Placeholder method to validate the token and get the user
+    
     private User ValidateTokenAndGetUser(string token)
     {
         var tokenParts = token.Split('-');
@@ -151,3 +213,6 @@ public class UserController
     }
 }
   
+
+
+

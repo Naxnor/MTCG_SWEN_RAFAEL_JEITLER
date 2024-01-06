@@ -38,6 +38,11 @@ namespace MTCG
             {
                 _userController.LoginUser(e);
             }
+            else if (e.Path.StartsWith("/users") && e.Method.Equals("PUT"))
+
+            {
+                _userController.UpdateUserData(e);
+            }
             //Console.WriteLine(e.PlainMessage);
 
             //e.Reply(200, "Yo! Understood.");

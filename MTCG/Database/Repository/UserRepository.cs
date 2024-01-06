@@ -116,4 +116,36 @@ public class UserRepository
         else return false;
         
     }
+
+    public bool UpdateUser(string username, User updatedUserData)
+    {
+        string updateQuery = "UPDATE users SET name = @name, bio = @bio, image = @image WHERE username = @username";
+
+        using (NpgsqlConnection conn = new NpgsqlConnection(DBManager.ConnectionString))
+        using (NpgsqlCommand cmd = new NpgsqlCommand(updateQuery, conn))
+        {
+            cmd.Parameters.AddWithValue("@name", updatedUserData.Name);
+            cmd.Parameters.AddWithValue("@bio", updatedUserData.Bio);
+            cmd.Parameters.AddWithValue("@image", updatedUserData.Image);
+            cmd.Parameters.AddWithValue("@username", username);
+
+            try
+            {
+                conn.Open();
+                int rowsAffected = cmd.ExecuteNonQuery();
+
+                return rowsAffected > 0; // Returns true if the update affected at least one row
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error updating user: {ex.Message}");
+                // Optionally: log the exception
+                return false;
+            }
+            finally
+            {
+                conn.Close();
+            }
+        }
+    }
 }
