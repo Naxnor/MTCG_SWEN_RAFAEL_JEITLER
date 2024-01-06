@@ -13,5 +13,5 @@ public class UserDTO
     public int looses { get; set; }
     public int elo { get; set; }
     public int coins { get; set; }
-    // Include other properties as needed, but exclude sensitive data like passwords
+    public int Id { get; set; }
 }

@@ -1,4 +1,5 @@
 ﻿using MTCG.Controller;
+using MTCG.Database.Repository;
 using MTCG.Server;
 
 namespace MTCG
@@ -26,6 +27,8 @@ namespace MTCG
         private static void _ProcessMessage(object sender, HttpSvrEventArgs e)
         {
             UserController _userController = new UserController();
+            CardController _cardController = new CardController();
+            TransactionController _transactionController = new TransactionController();
             if (e.Path.StartsWith("/users" )&& e.Method.Equals("POST"))
             {
                 _userController.CreateUser(e);
@@ -42,6 +45,14 @@ namespace MTCG
 
             {
                 _userController.UpdateUserData(e);
+            }
+            else if (e.Path.StartsWith("/packages") && e.Method.Equals("POST"))
+            {
+                _cardController.CreatePackage(e);
+            }
+            else if (e.Path.StartsWith("/transactions/packages") && e.Method.Equals("POST"))
+            {
+                _transactionController.BuyPackage(e); 
             }
             //Console.WriteLine(e.PlainMessage);
 

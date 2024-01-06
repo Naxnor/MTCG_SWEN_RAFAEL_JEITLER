@@ -177,7 +177,7 @@ public class UserController
         }
     }
     
-    private string ExtractAuthToken(HttpHeader[] headers)
+    public static string ExtractAuthToken(HttpHeader[] headers) // static to make it reusable in other parts
     {
         const string authHeaderKey = "Authorization"; 
         if (headers == null) 

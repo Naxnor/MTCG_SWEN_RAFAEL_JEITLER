@@ -29,12 +29,67 @@ public class UserRepository
             }
         }
     }
+    public bool DeductCoins(int userId, int amount)
+         {
+             string updateQuery = "UPDATE users SET Coins = Coins - @amount WHERE id = @userId AND Coins >= @amount";
+             using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+             {
+                 conn.Open();
+                 using (var cmd = new NpgsqlCommand(updateQuery, conn))
+                 {
+                     cmd.Parameters.AddWithValue("@amount", amount);
+                     cmd.Parameters.AddWithValue("@userId", userId);
+     
+                     int affectedRows = cmd.ExecuteNonQuery();
+                     return affectedRows > 0; // true if coins were successfully deducted
+                 }
+             }
+         }
 
+    public void AddCardToUser(int userId, Guid cardId, bool inDeck = false)
+    {
+        string insertQuery = "INSERT INTO UserCards (CardId, UserId, InDeck) VALUES (@CardId, @UserId, @InDeck)";
+        using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+        {
+            conn.Open();
+            using (var cmd = new NpgsqlCommand(insertQuery, conn))
+            {
+                cmd.Parameters.AddWithValue("@CardId", cardId);
+                cmd.Parameters.AddWithValue("@UserId", userId);
+                cmd.Parameters.AddWithValue("@InDeck", inDeck);
 
+                cmd.ExecuteNonQuery();
+            }
+        }
+    }
+
+    public int GetUserIdByUsername(string username)
+    {
+        string selectQuery = "SELECT id FROM users WHERE username = @username";
+
+        using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+        {
+            conn.Open();
+            using (var cmd = new NpgsqlCommand(selectQuery, conn))
+            {
+                cmd.Parameters.AddWithValue("@username", username);
+
+                using (var reader = cmd.ExecuteReader())
+                {
+                    if (reader.Read())
+                    {
+                        return reader.GetInt32(reader.GetOrdinal("id"));
+                    }
+                }
+            }
+        }
+        return 0; // or handle this case appropriately
+    }
+    
     public User? GetUserByUsername(string username)
     {
         string selectQuery =
-            "SELECT username, password, name, bio, image, IsAdmin,coins FROM users WHERE username = @username";
+            "SELECT username, password, name, bio, image,coins FROM users WHERE username = @username";
 
         using (NpgsqlConnection conn = new NpgsqlConnection(DBManager.ConnectionString))
         using (NpgsqlCommand cmd = new NpgsqlCommand(selectQuery, conn))
@@ -145,6 +200,23 @@ public class UserRepository
             finally
             {
                 conn.Close();
+            }
+        }
+    }
+
+    public bool AddCoins(int userId, int amount)
+    {
+        string updateQuery = "UPDATE users SET Coins = Coins + @amount WHERE id = @userId";
+        using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+        {
+            conn.Open();
+            using (var cmd = new NpgsqlCommand(updateQuery, conn))
+            {
+                cmd.Parameters.AddWithValue("@amount", amount);
+                cmd.Parameters.AddWithValue("@userId", userId);
+
+                int affectedRows = cmd.ExecuteNonQuery();
+                return affectedRows > 0; // true if coins were successfully added
             }
         }
     }

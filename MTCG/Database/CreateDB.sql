@@ -2,51 +2,85 @@
 
 
 CREATE TABLE IF NOT EXISTS users (
-    id              serial          PRIMARY KEY,
+    id              serial         PRIMARY KEY,
     username        VARCHAR(255)    NOT NULL UNIQUE,
     password        VARCHAR(255)    NOT NULL,
     name            VARCHAR(255),
     bio             TEXT,
     image           TEXT,
-    coins           integer default 20,
+    Coins           INT     default 20,
     elo             INTEGER DEFAULT 1000,
     wins            INTEGER DEFAULT 0,
     losses          INTEGER DEFAULT 0
     
     );
 
-CREATE TABLE IF NOT EXISTS cards (
-                                     id              UUID            PRIMARY KEY,
-                                     name            VARCHAR(255)    NOT NULL,
-    damage          FLOAT           NOT NULL
-    -- Add more attributes here as needed
-    );
+CREATE TABLE Cards (
+                       Id UUID PRIMARY KEY,
+                       Name VARCHAR(255),
+                       Damage FLOAT
+
+);
+
+CREATE TABLE UserCards (
+                           CardId UUID,
+                           UserId serial,
+                           InDeck BOOLEAN,
+                           FOREIGN KEY (CardId) REFERENCES Cards(Id),
+                           FOREIGN KEY (UserId) REFERENCES Users(Id)
+);
+
+
+
+
+CREATE TABLE Packages (
+                          PackageId UUID PRIMARY KEY
+);
+
+CREATE TABLE CardPackage (
+                             CardId UUID,
+                             PackageId UUID,
+                             FOREIGN KEY (CardId) REFERENCES Cards(Id),
+                             FOREIGN KEY (PackageId) REFERENCES Packages(PackageId)
+);
+
+-- Delete all data from the CardPackage table
+DELETE FROM CardPackage;
+
+-- Delete all data from the Cards table
+DELETE FROM Cards;
+DELETE FROM usercards;
+-- Delete all data from the Packages table
+DELETE FROM Packages;
+
+Delete From Users;
+
 
 CREATE TABLE IF NOT EXISTS user_cards (
-                                          user_id         INTEGER         NOT NULL,
-                                          card_id         UUID            NOT NULL,
-                                          PRIMARY KEY (user_id, card_id),
+    user_id         INTEGER         NOT NULL,
+    card_id         UUID            NOT NULL,
+     PRIMARY KEY (user_id, card_id),
     FOREIGN KEY (user_id) REFERENCES users(id),
     FOREIGN KEY (card_id) REFERENCES cards(id)
     );
 
 CREATE TABLE IF NOT EXISTS trading_deals (
-                                             id              UUID            PRIMARY KEY,
-                                             user_id         INTEGER         NOT NULL,
-                                             card_to_trade   UUID            NOT NULL,
-                                             type            VARCHAR(255)    NOT NULL,
+    id              UUID            PRIMARY KEY,
+    user_id         INTEGER         NOT NULL,
+    card_to_trade   UUID            NOT NULL,
+    type            VARCHAR(255)    NOT NULL,
     minimum_damage  FLOAT           NOT NULL,
     FOREIGN KEY (user_id) REFERENCES users(id),
     FOREIGN KEY (card_to_trade) REFERENCES cards(id)
     );
 
 CREATE TABLE IF NOT EXISTS matches (
-                                       id              serial          PRIMARY KEY,
-                                       player_one_id   INTEGER         NOT NULL,
-                                       player_two_id   INTEGER         NOT NULL,
-                                       winner_id       INTEGER         NOT NULL,
-                                       match_time      TIMESTAMP       DEFAULT CURRENT_TIMESTAMP,
-                                       FOREIGN KEY (player_one_id) REFERENCES users(id),
+    id              serial          PRIMARY KEY,
+    player_one_id   INTEGER         NOT NULL,
+    player_two_id   INTEGER         NOT NULL,
+    winner_id       INTEGER         NOT NULL,
+    match_time      TIMESTAMP       DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (player_one_id) REFERENCES users(id),
     FOREIGN KEY (player_two_id) REFERENCES users(id),
     FOREIGN KEY (winner_id) REFERENCES users(id)
     );
