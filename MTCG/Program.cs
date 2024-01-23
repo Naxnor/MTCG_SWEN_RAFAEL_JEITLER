@@ -66,6 +66,15 @@ namespace MTCG
             {
                 _cardController.ConfigureUserDeck(e);
             }
+            else if (e.Path.Equals("/stats") && e.Method.Equals("GET"))
+            {
+                _userController.GetUserStats(e);
+            }
+            else if (e.Path.Equals("/scoreboard") && e.Method.Equals("GET"))
+            {
+                _userController.GetScoreboard(e);
+            }
+            
         }
     }
 }

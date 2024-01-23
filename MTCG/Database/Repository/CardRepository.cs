@@ -1,4 +1,4 @@
-﻿using System.Collections;
+﻿﻿using System.Collections;
 using MTCG.Models;
 using Npgsql;
 
@@ -32,22 +32,54 @@ public class CardRepository
     }
 
    
-    public bool AddCard(Card card)
+         public bool AddCard(Card card)
     {
-        string insertQuery = "INSERT INTO Cards (Id, Name, Damage) VALUES (@Id, @Name, @Damage)";
-        using (NpgsqlConnection conn = new NpgsqlConnection(DBManager.ConnectionString))
+        var (element, @class) = ExtractElementAndClass(card.Name);
+
+        string insertQuery = "INSERT INTO Cards (Id, Name, Damage, Element, Class) VALUES (@Id, @Name, @Damage, @Element, @Class)";
+        using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
         {
             conn.Open();
-            using (NpgsqlCommand cmd = new NpgsqlCommand(insertQuery, conn))
+            using (var cmd = new NpgsqlCommand(insertQuery, conn))
             {
                 cmd.Parameters.AddWithValue("@Id", card.Id);
                 cmd.Parameters.AddWithValue("@Name", card.Name);
                 cmd.Parameters.AddWithValue("@Damage", card.Damage);
+                cmd.Parameters.AddWithValue("@Element", element);
+                cmd.Parameters.AddWithValue("@Class", @class);
 
                 int affectedRows = cmd.ExecuteNonQuery();
                 return affectedRows > 0;
             }
         }
+    }
+
+    public (string Element, string Class) ExtractElementAndClass(string cardName)
+    {
+        string element = cardName.Contains("Water") ? "Water" :
+            cardName.Contains("Fire") ? "Fire" :
+            cardName.Contains("Air") ? "Air" :
+            cardName.Contains("Ice") ? "Ice" :
+            cardName.Contains("Plant") ? "Plant" :
+            cardName.Contains("Electro") ? "Electro" :
+            cardName.Contains("Ground") ? "Ground" :
+            "Regular"; // Default element if no other matches
+
+        string @class = cardName.Contains("Dragon") ? "Dragon" :
+            cardName.Contains("Goblin") ? "Goblin" :
+            cardName.Contains("Spell") ? "Spell" :
+            cardName.Contains("Ork") ? "Ork" :
+            cardName.Contains("Wizzard") ? "Wizzard" :
+            cardName.Contains("Knight") ? "Knight" :
+            cardName.Contains("Kraken") ? "Kraken" :
+            cardName.Contains("Trap") ? "Trap" :
+            cardName.Contains("Elf") ? "Elf" :
+            cardName.Contains("Vampire") ? "Vampire" :
+            cardName.Contains("Dwarf") ? "Dwarf" :
+            cardName.Contains("Troll") ? "Troll" :
+            "Monster"; // Default class if no other matches
+
+        return (element, @class);
     }
 
 
@@ -112,13 +144,15 @@ public class CardRepository
 
     private bool AddCard(Card card, NpgsqlConnection conn, NpgsqlTransaction trans)
     {
-        string insertQuery = "INSERT INTO cards (Id, Name, Damage) VALUES (@Id, @Name, @Damage)";
+        var (element, @class) = ExtractElementAndClass(card.Name);
+        string insertQuery = "INSERT INTO Cards (Id, Name, Damage, Element, Class) VALUES (@Id, @Name, @Damage, @Element, @Class)";
         using (var cmd = new NpgsqlCommand(insertQuery, conn, trans))
         {
             cmd.Parameters.AddWithValue("@Id", card.Id);
             cmd.Parameters.AddWithValue("@Name", card.Name);
             cmd.Parameters.AddWithValue("@Damage", card.Damage);
-
+            cmd.Parameters.AddWithValue("@Element", element);
+            cmd.Parameters.AddWithValue("@Class", @class);
             int affectedRows = cmd.ExecuteNonQuery();
             return affectedRows > 0;
         }
@@ -297,5 +331,38 @@ public class CardRepository
             }
         }
         return deck;
+    }
+
+    public IEnumerable<Card> GetCardsInDeck(int userId)
+    {
+        var cards = new List<Card>();
+        var query = "SELECT c.* FROM Cards c INNER JOIN UserCards uc ON c.Id = uc.CardId WHERE uc.UserId = @UserId AND uc.InDeck = TRUE";
+
+        using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+        {
+            conn.Open();
+            using (var cmd = new NpgsqlCommand(query, conn))
+            {
+                cmd.Parameters.AddWithValue("@UserId", userId);
+
+                using (var reader = cmd.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        cards.Add(new Card
+                        {
+                            Id = reader.GetGuid(reader.GetOrdinal("Id")),
+                            Name = reader.GetString(reader.GetOrdinal("Name")),
+                            Damage = reader.GetFloat(reader.GetOrdinal("Damage")),
+                            Class = reader.GetString(reader.GetOrdinal("Class")),
+                            Element = reader.GetString(reader.GetOrdinal("Element")),
+                            // Populate other properties if they exist
+                        });
+                    }
+                }
+            }
+        }
+
+        return cards;
     }
 }

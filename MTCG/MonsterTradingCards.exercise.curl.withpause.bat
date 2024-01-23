@@ -200,6 +200,8 @@ echo.
 
 pause
 
+
+
 REM --------------------------------------------------
 echo 14) edit user data
 echo.
@@ -253,10 +255,10 @@ echo.
 pause
 
 REM --------------------------------------------------
-echo 17) battle
-start /b "kienboec battle" curl -i -X POST http://localhost:10001/battles --header "Authorization: Bearer kienboec-mtcgToken"
-start /b "altenhof battle" curl -i -X POST http://localhost:10001/battles --header "Authorization: Bearer altenhof-mtcgToken"
-ping localhost -n 10 >NUL 2>NUL
+    echo 17) battle
+    start /b "kienboec battle" curl -i -X POST http://localhost:10001/battles --header "Authorization: Bearer kienboec-mtcgToken"
+    start /b "altenhof battle" curl -i -X POST http://localhost:10001/battles --header "Authorization: Bearer altenhof-mtcgToken"
+    ping localhost -n 10 >NUL 2>NUL
 
 pause
 

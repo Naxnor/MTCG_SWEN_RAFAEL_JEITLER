@@ -124,6 +124,82 @@ public class UserRepository
         return null;
     }
     
+    public UserStats GetUserStatsByUsername(string username)
+    {
+        string selectQuery = "SELECT username, elo, wins, losses FROM users WHERE username = @username";
+        using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+        {
+            conn.Open();
+            using (var cmd = new NpgsqlCommand(selectQuery, conn))
+            {
+                cmd.Parameters.AddWithValue("@username", username);
+                using (var reader = cmd.ExecuteReader())
+                {
+                    if (reader.Read())
+                    {
+                        return new UserStats
+                        {
+                            Name = reader.GetString(reader.GetOrdinal("username")),
+                            Elo = reader.GetInt32(reader.GetOrdinal("elo")),
+                            Wins = reader.GetInt32(reader.GetOrdinal("wins")),
+                            Losses = reader.GetInt32(reader.GetOrdinal("losses")),
+                            WinLoseRatio = CalculateWinLoseRatio(reader.GetInt32(reader.GetOrdinal("wins")), reader.GetInt32(reader.GetOrdinal("losses")))
+                        };
+                    }
+                }
+            }
+        }
+        return null;
+    }
+
+    private double CalculateWinLoseRatio(int wins, int losses)
+    {
+        if (losses == 0)
+        {
+            if (wins > 0)
+            {
+                return double.PositiveInfinity; // You can handle this case as per your requirements
+            }
+            else
+            {
+                return 0.0; // No wins and no losses, win-lose ratio is 0%
+            }
+        }
+        else
+        {
+            return (double)wins / losses;
+        }
+    }
+
+    public IEnumerable<UserStats> GetScoreboard()
+    {
+        string selectQuery = "SELECT * FROM leaderboard"; // Using the view you've created
+        var scoreboard = new List<UserStats>();
+        using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+        {
+            conn.Open();
+            using (var cmd = new NpgsqlCommand(selectQuery, conn))
+            {
+                using (var reader = cmd.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        scoreboard.Add(new UserStats
+                        {
+                            Name = reader.GetString(reader.GetOrdinal("username")),
+                            Elo = reader.GetInt32(reader.GetOrdinal("elo")),
+                            Wins = reader.GetInt32(reader.GetOrdinal("wins")),
+                            Losses = reader.GetInt32(reader.GetOrdinal("losses")),
+                            WinLoseRatio = CalculateWinLoseRatio(reader.GetInt32(reader.GetOrdinal("wins")), reader.GetInt32(reader.GetOrdinal("losses")))
+
+                        });
+                    }
+                }
+            }
+        }
+        return scoreboard;
+    }
+    
     public bool AuthenticateUser(string formnameUsername, string formnamePassword)
     {
         string selectQuery = "SELECT password FROM users WHERE username = @formnameUsername";

@@ -157,6 +157,7 @@ public class CardController
             return;
         }
 
+   
         var cardIds = JsonConvert.DeserializeObject<List<Guid>>(e.Payload);
         if (cardIds == null || cardIds.Count != 4)
         {

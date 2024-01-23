@@ -13,6 +13,6 @@ public class User
     public int elo { get; set; }
     public int coins { get; set; }
     public int Id { get; set; }
-
+    
     // Constructor and any other necessary methods or properties
 }
