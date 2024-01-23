@@ -44,25 +44,8 @@ CREATE TABLE CardPackage (
                              FOREIGN KEY (PackageId) REFERENCES Packages(PackageId)
 );
 
--- Delete all data from the CardPackage table
-DELETE FROM CardPackage;
-
--- Delete all data from the Cards table
-DELETE FROM Cards;
-DELETE FROM usercards;
--- Delete all data from the Packages table
-DELETE FROM Packages;
-
-Delete From Users;
 
 
-CREATE TABLE IF NOT EXISTS user_cards (
-    user_id         INTEGER         NOT NULL,
-    card_id         UUID            NOT NULL,
-     PRIMARY KEY (user_id, card_id),
-    FOREIGN KEY (user_id) REFERENCES users(id),
-    FOREIGN KEY (card_id) REFERENCES cards(id)
-    );
 
 CREATE TABLE IF NOT EXISTS trading_deals (
     id              UUID            PRIMARY KEY,
@@ -116,3 +99,13 @@ CREATE TRIGGER after_match_played
     AFTER INSERT ON matches
     FOR EACH ROW
 EXECUTE FUNCTION update_user_stats();
+
+
+--Delete everything
+
+
+DELETE FROM usercards;
+DELETE FROM Packages;
+Delete From Users;
+DELETE FROM Cards;
+DELETE FROM CardPackage;

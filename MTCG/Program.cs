@@ -26,6 +26,7 @@ namespace MTCG
         /// <param name="e">Event arguments.</param>
         private static void _ProcessMessage(object sender, HttpSvrEventArgs e)
         {
+            
             UserController _userController = new UserController();
             CardController _cardController = new CardController();
             TransactionController _transactionController = new TransactionController();
@@ -42,7 +43,6 @@ namespace MTCG
                 _userController.LoginUser(e);
             }
             else if (e.Path.StartsWith("/users") && e.Method.Equals("PUT"))
-
             {
                 _userController.UpdateUserData(e);
             }
@@ -54,10 +54,18 @@ namespace MTCG
             {
                 _transactionController.BuyPackage(e); 
             }
-            //Console.WriteLine(e.PlainMessage);
-
-            //e.Reply(200, "Yo! Understood.");
-            
+            else if (e.Path.Equals("/cards") && e.Method.Equals("GET"))
+            {
+                _cardController.GetAllUserCards(e);
+            }
+            else if (e.Path.Equals("/deck") && e.Method.Equals("GET"))
+            {
+                _cardController.GetUserDeck(e);
+            }
+            else if (e.Path.Equals("/deck") && e.Method.Equals("PUT"))
+            {
+                _cardController.ConfigureUserDeck(e);
+            }
         }
     }
 }

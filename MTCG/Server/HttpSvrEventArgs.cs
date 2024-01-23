@@ -114,6 +114,8 @@ namespace MTCG.Server
             get; protected set;
         }
 
+        public object QueryString { get; set; }
+        public object QueryParameters { get; set; }
 
 
         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -148,7 +150,7 @@ namespace MTCG.Server
                 case 503:
                     data = "HTTP/1.1 503 Service Unavailable\n"; break;
                 case 204:
-                    data = "HTTP/1.1 204 No Content\n"; break;
+                    data = "HTTP/1.1 204 Request was fine but, No Content\n"; break;
                 case 301:
                     data = "HTTP/1.1 301 Moved Permanently\n"; break;
                 case 302:

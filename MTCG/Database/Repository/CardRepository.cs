@@ -1,8 +1,9 @@
 ﻿using System.Collections;
 using MTCG.Models;
+using Npgsql;
 
 namespace MTCG.Database.Repository;
-using Npgsql;
+
 
 public class CardRepository
 {
@@ -209,5 +210,92 @@ public class CardRepository
             }
         }
         return cards;
+    }
+    
+    public IEnumerable<CardDTO> GetUserCards(int userId)
+    {
+        var cards = new List<CardDTO>();
+        string selectQuery = @"
+            SELECT c.Id, c.Name, c.Damage 
+            FROM Cards c
+            INNER JOIN UserCards uc ON c.Id = uc.CardId
+            WHERE uc.UserId = @UserId";
+
+        using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+        {
+            conn.Open();
+            using (var cmd = new NpgsqlCommand(selectQuery, conn))
+            {
+                cmd.Parameters.AddWithValue("@UserId", userId);
+
+                using (var reader = cmd.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        cards.Add(new CardDTO
+                        {
+                            Id = reader.GetGuid(reader.GetOrdinal("Id")),
+                            Name = reader.GetString(reader.GetOrdinal("Name")),
+                            Damage = reader.GetFloat(reader.GetOrdinal("Damage"))
+                        });
+                    }
+                }
+            }
+        }
+        return cards;
+    }
+    public bool ConfigureDeck(int userId, IEnumerable<Guid> cardIds)
+    {
+        var inDeckStatusUpdateQuery = @"
+            UPDATE UserCards
+            SET InDeck = CASE
+                WHEN CardId = ANY(@CardIds) THEN TRUE
+                ELSE FALSE
+            END
+            WHERE UserId = @UserId";
+
+        using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+        {
+            conn.Open();
+            using (var cmd = new NpgsqlCommand(inDeckStatusUpdateQuery, conn))
+            {
+                cmd.Parameters.AddWithValue("@UserId", userId);
+                cmd.Parameters.AddWithValue("@CardIds", cardIds.ToArray());
+                cmd.ExecuteNonQuery();
+            }
+        }
+        return true;
+    }
+    public IEnumerable<CardDTO> GetUserDeck(int userId)
+    {
+        var deck = new List<CardDTO>();
+        string selectQuery = @"
+        SELECT c.Id, c.Name, c.Damage
+        FROM Cards c
+        INNER JOIN UserCards uc ON c.Id = uc.CardId
+        WHERE uc.UserId = @UserId AND uc.InDeck = TRUE";
+
+        using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+        {
+            conn.Open();
+            using (var cmd = new NpgsqlCommand(selectQuery, conn))
+            {
+                cmd.Parameters.AddWithValue("@UserId", userId);
+
+                using (var reader = cmd.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        deck.Add(new CardDTO
+                        {
+                            Id = reader.GetGuid(reader.GetOrdinal("Id")),
+                            Name = reader.GetString(reader.GetOrdinal("Name")),
+                            Damage = reader.GetFloat(reader.GetOrdinal("Damage"))
+                        });
+                    }
+                }
+            }
+        }
+        return deck;
     }
 }
