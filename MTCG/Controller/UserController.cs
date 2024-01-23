@@ -68,11 +68,14 @@ public class UserController
 
     public void GetUser(HttpSvrEventArgs e)
     {
-        if (!e.Parameters.TryGetValue("username", out string username))
+        // Extract 'username' from the path
+        var segments = e.Path.Trim('/').Split('/');
+        if (segments.Length < 2 || string.IsNullOrEmpty(segments[1]))
         {
             e.Reply(400, "Bad Request: Username is required");
             return;
         }
+        string username = segments[1];
 
         if (!IsAuthorized(e, username))
         {
@@ -85,7 +88,7 @@ public class UserController
             var user = _userRepository.GetUserByUsername(username);
             if (user != null)
             {
-                var userData = new UserDTO // new data transfer object for added security 
+                var userData = new UserDTO
                 {
                     Name = user.Name,
                     Bio = user.Bio,
@@ -105,14 +108,18 @@ public class UserController
             e.Reply(500, "Internal Server Error");
         }
     }
+
     public void UpdateUserData(HttpSvrEventArgs e)
     {
-        // Get the Username out of URL path
-        if (!e.Parameters.TryGetValue("username", out string username))
+        // Extract 'username' from the path
+        var segments = e.Path.Trim('/').Split('/');
+        if (segments.Length < 2 || string.IsNullOrEmpty(segments[1]))
         {
             e.Reply(400, "Bad Request: Username is required");
             return;
         }
+        string username = segments[1];
+
         // Check for Token if false return 
         if (!IsAuthorized(e, username))
         {
@@ -128,7 +135,7 @@ public class UserController
                 e.Reply(400, "Invalid request");
                 return;
             }
-            
+        
             bool updateSuccessful = _userRepository.UpdateUser(username, updatedUserData);
             if (updateSuccessful)
             {
@@ -139,11 +146,13 @@ public class UserController
                 e.Reply(404, "User not found");
             }
         }
-        catch (Exception)
+        catch (Exception ex)
         {
+            Console.WriteLine($"Error: {ex.Message}");
             e.Reply(500, "Internal server error");
         }
     }
+
 
 
 

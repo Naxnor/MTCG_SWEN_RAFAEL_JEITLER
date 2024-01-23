@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Net.Sockets;
 using System.Text;
+using System.Web;
 
 
 namespace MTCG.Server
@@ -25,42 +26,68 @@ namespace MTCG.Server
         /// <summary>Creates a new instance of this class.</summary>
         /// <param name="client">TCP client object.</param>
         /// <param name="plainMessage">HTTP plain message.</param>
-        public Dictionary<string, string> Parameters { get; private set; } = new Dictionary<string, string>();
-        public HttpSvrEventArgs(TcpClient client, string plainMessage) 
+        public Dictionary<string, string> QueryParameters { get; private set; }
+  
+        public HttpSvrEventArgs(TcpClient client, string plainMessage)
         {
             _Client = client;
             PlainMessage = plainMessage;
             Payload = string.Empty;
-            
-            string[] lines = plainMessage.Replace("\r\n", "\n").Replace("\r", "\n").Split('\n');
-            bool inheaders = true;
-            List<HttpHeader> headers = new();
+            QueryParameters = new Dictionary<string, string>();
 
-            for(int i = 0; i < lines.Length; i++) 
+            string[] lines = plainMessage.Replace("\r\n", "\n").Replace("\r", "\n").Split('\n');
+            bool inHeaders = true;
+            List<HttpHeader> headers = new List<HttpHeader>();
+
+            for (int i = 0; i < lines.Length; i++)
             {
-                if(i == 0)
+                if (i == 0)
                 {
-                    string[] inc = lines[0].Split(' ');
-                    Method = inc[0];
-                    Path = inc[1];
-                }
-                else if(inheaders)
-                {
-                    if(string.IsNullOrWhiteSpace(lines[i]))
+                    string[] requestLine = lines[i].Split(' ');
+                    if (requestLine.Length >= 2)
                     {
-                        inheaders = false;
+                        Method = requestLine[0];
+                        var rawUrl = requestLine[1];
+
+                        var uri = new Uri("http://localhost" + rawUrl); // Dummy domain for parsing
+                        Path = uri.AbsolutePath;
+                        var query = HttpUtility.ParseQueryString(uri.Query);
+                        foreach (string key in query.AllKeys)
+                        {
+                            QueryParameters[key] = query[key];
+                        }
                     }
-                    else { headers.Add(new HttpHeader(lines[i])); }
+                }
+                else if (inHeaders)
+                {
+                    if (string.IsNullOrWhiteSpace(lines[i]))
+                    {
+                        inHeaders = false;
+                    }
+                    else
+                    {
+                        headers.Add(new HttpHeader(lines[i]));
+                    }
                 }
                 else
                 {
-                    if(!string.IsNullOrWhiteSpace(Payload)) { Payload += "\r\n"; }
+                    if (!string.IsNullOrWhiteSpace(Payload)) { Payload += "\n"; }
                     Payload += lines[i];
                 }
             }
 
             Headers = headers.ToArray();
-            ParsePathForParameters(Path);
+        }
+        private void ParseQueryString(string queryString)
+        {
+            var nameValuePairs = HttpUtility.ParseQueryString(queryString);
+            foreach (string key in nameValuePairs.AllKeys)
+            {
+                if (!string.IsNullOrEmpty(key))
+                {
+                    QueryParameters[key] = nameValuePairs[key];
+                }
+            }
         }
         private void ParsePathForParameters(string path)
         {
@@ -70,7 +97,7 @@ namespace MTCG.Server
             if (segments.Length >= 2 && segments[0].Equals("users", StringComparison.OrdinalIgnoreCase))
             {
                 // Assuming that the username is the second segment
-                Parameters["username"] = segments[1];
+                QueryParameters["username"] = segments[1];
             }
         }
 
@@ -115,7 +142,7 @@ namespace MTCG.Server
         }
 
         public object QueryString { get; set; }
-        public object QueryParameters { get; set; }
+       
 
 
         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

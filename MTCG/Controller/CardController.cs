@@ -3,6 +3,7 @@ using MTCG.Database.Repository;
 using MTCG.Models;
 using MTCG.Server;
 using Newtonsoft.Json;
+using System.Linq;
 namespace MTCG.Database.Repository;
 
 public class CardController
@@ -203,8 +204,18 @@ public class CardController
             return;
         }
 
-        var jsonResponse = JsonConvert.SerializeObject(deck, Formatting.Indented);
-        e.Reply(200, jsonResponse);
+        string formatValue;
+        if (e.QueryParameters.TryGetValue("format", out formatValue) && formatValue.Equals("plain", StringComparison.OrdinalIgnoreCase))
+        {
+            var plainTextResponse = string.Join(Environment.NewLine, deck.Select(card => $"Id: {card.Id}, Name: {card.Name}, Damage: {card.Damage}"));
+            e.Reply(200, plainTextResponse);
+        }
+        else
+        {
+            var jsonResponse = JsonConvert.SerializeObject(deck, Formatting.Indented);
+            e.Reply(200, jsonResponse);
+        }
     }
+
     
 }
