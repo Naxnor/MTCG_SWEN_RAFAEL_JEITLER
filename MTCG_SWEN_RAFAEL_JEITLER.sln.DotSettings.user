@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=13eb5667_002Dc592_002D478c_002Db0ae_002Daa56abca9e83/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetUserDeck_RetrievesUserDeck #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::80230CED-AD8A-4A75-8421-405C6E0C8F01::net8.0::MTCGTesting.CardRepositoryIntegrationTests.GetUserDeck_RetrievesUserDeck&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=490afeae_002D0c47_002D4f6f_002D9a4d_002D39582a9decd0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetUserDeck_RetrievesUserDeck" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::80230CED-AD8A-4A75-8421-405C6E0C8F01::net8.0::MTCGTesting.CardRepositoryIntegrationTests.GetUserDeck_RetrievesUserDeck&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b1c4f651_002De740_002D40a8_002D8c06_002Ddd5153928fbe/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetUserDeck_RetrievesUsersDeck" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::80230CED-AD8A-4A75-8421-405C6E0C8F01::net8.0::MTCGTesting.CardRepositoryIntegrationTests.GetUserDeck_RetrievesUsersDeck&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dcfbf774_002Da343_002D45d1_002D990e_002De96ce8357f53/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;MTCGTesting&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="F:\MTCG_SWEN_RAFAEL_JEITLER\MTCGTesting" Presentation="&amp;lt;MTCGTesting&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>

@@ -1,0 +1,58 @@
+Round 1: WaterSpell vs RegularSpell
+Winner: RegularSpell
+
+Round 2: Ork vs Knight
+Winner: Ork
+
+Round 3: Dragon vs WaterSpell
+Winner: Dragon
+
+Round 4: Knight vs RegularSpell
+Winner: RegularSpell
+
+Round 5: Dragon vs Knight
+Winner: Dragon
+
+Round 6: WaterSpell vs WaterSpell
+Draw
+
+Round 7: Dragon vs WaterSpell
+Winner: Dragon
+
+Round 8: Dragon vs RegularSpell
+Winner: Dragon
+
+Round 9: Ork vs RegularSpell
+Winner: RegularSpell
+
+Round 10: Knight vs Ork
+Winner: Ork
+
+Round 11: WaterSpell vs Knight
+Winner: WaterSpell
+
+Round 12: RegularSpell vs RegularSpell
+Winner: RegularSpell
+
+Round 13: WaterSpell vs Ork
+Winner: Ork
+
+Round 14: Knight vs WaterSpell
+Winner: WaterSpell
+
+Round 15: RegularSpell vs Knight
+Winner: RegularSpell
+
+Round 16: WaterSpell vs WaterSpell
+Draw
+
+Round 17: RegularSpell vs Ork
+Winner: RegularSpell
+
+Round 18: WaterSpell vs WaterSpell
+Draw
+
+Round 19: RegularSpell vs WaterSpell
+Winner: RegularSpell
+
+Overall Winner: User (Name: kienboec) with 10 rounds won

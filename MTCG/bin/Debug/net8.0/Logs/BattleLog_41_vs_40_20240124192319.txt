@@ -1,0 +1,103 @@
+Round 1: RegularSpell vs WaterSpell
+Winner: RegularSpell
+
+Round 2: WaterSpell vs Dragon
+Winner: Dragon
+
+Round 3: RegularSpell vs WaterSpell
+Winner: RegularSpell
+
+Round 4: Knight vs Dragon
+Winner: Dragon
+
+Round 5: RegularSpell vs Knight
+Winner: RegularSpell
+
+Round 6: RegularSpell vs WaterGoblin
+Winner: RegularSpell
+
+Round 7: RegularSpell vs Ork
+Winner: RegularSpell
+
+Round 8: RegularSpell vs Dragon
+Winner: Dragon
+
+Round 9: WaterGoblin vs RegularSpell
+Winner: RegularSpell
+
+Round 10: Knight vs WaterGoblin
+Winner: WaterGoblin
+
+Round 11: RegularSpell vs WaterGoblin
+Winner: RegularSpell
+
+Round 12: Ork vs Knight
+Winner: Ork
+
+Round 13: WaterSpell vs RegularSpell
+Winner: RegularSpell
+
+Round 14: WaterSpell vs RegularSpell
+Winner: RegularSpell
+
+Round 15: WaterGoblin vs WaterSpell
+Winner: WaterSpell
+
+Round 16: RegularSpell vs WaterGoblin
+Winner: RegularSpell
+
+Round 17: WaterGoblin vs WaterSpell
+Winner: WaterSpell
+
+Round 18: Ork vs WaterGoblin
+Winner: Ork
+
+Round 19: Knight vs WaterSpell
+Winner: WaterSpell
+
+Round 20: WaterGoblin vs WaterSpell
+Winner: WaterSpell
+
+Round 21: Ork vs WaterGoblin
+Winner: Ork
+
+Round 22: Ork vs RegularSpell
+Winner: RegularSpell
+
+Round 23: WaterGoblin vs Ork
+Winner: Ork
+
+Round 24: RegularSpell vs Knight
+Winner: RegularSpell
+
+Round 25: RegularSpell vs WaterSpell
+Winner: RegularSpell
+
+Round 26: WaterSpell vs WaterGoblin
+Winner: WaterSpell
+
+Round 27: Knight vs Dragon
+Winner: Dragon
+
+Round 28: WaterGoblin vs RegularSpell
+Winner: RegularSpell
+
+Round 29: WaterSpell vs Ork
+Winner: Ork
+
+Round 30: RegularSpell vs WaterGoblin
+Winner: RegularSpell
+
+Round 31: RegularSpell vs RegularSpell
+Winner: RegularSpell
+
+Round 32: WaterGoblin vs Knight
+Winner: WaterGoblin
+
+Round 33: WaterGoblin vs RegularSpell
+Winner: RegularSpell
+
+Round 34: Knight vs RegularSpell
+Winner: RegularSpell
+
+Overall Winner: User (Name: kienboec) with 19 rounds won

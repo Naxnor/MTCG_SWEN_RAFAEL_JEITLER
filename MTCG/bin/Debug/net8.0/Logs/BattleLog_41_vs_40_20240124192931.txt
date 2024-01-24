@@ -1,0 +1,19 @@
+Round 1: RegularSpell vs Dragon (Damage: MTCG.Database.Repository.BattleService+RoundOutcome)
+Winner: Dragon
+
+Round 2: WaterSpell vs WaterGoblin (Damage: MTCG.Database.Repository.BattleService+RoundOutcome)
+Winner: WaterSpell
+
+Round 3: RegularSpell vs RegularSpell (Damage: MTCG.Database.Repository.BattleService+RoundOutcome)
+Winner: RegularSpell
+
+Round 4: WaterSpell vs RegularSpell (Damage: MTCG.Database.Repository.BattleService+RoundOutcome)
+Winner: RegularSpell
+
+Round 5: WaterGoblin vs RegularSpell (Damage: MTCG.Database.Repository.BattleService+RoundOutcome)
+Winner: RegularSpell
+
+Round 6: Knight vs WaterSpell (Damage: MTCG.Database.Repository.BattleService+RoundOutcome)
+Winner: WaterSpell
+
+Overall Winner: User (Name: kienboec) with 5 rounds won

@@ -23,7 +23,10 @@ public class CardRepository
                     {
                         Id = reader.GetGuid(reader.GetOrdinal("Id")),
                         Name = reader.GetString(reader.GetOrdinal("Name")),
-                        Damage = reader.GetFloat(reader.GetOrdinal("Damage"))
+                        Damage = reader.GetFloat(reader.GetOrdinal("Damage")),
+                        Element = reader.GetString(reader.GetOrdinal("Element")),
+                        Class = reader.GetString(reader.GetOrdinal("Class")),
+                        Type = reader.GetString(reader.GetOrdinal("Type"))
                     };
                 }
             }
@@ -34,8 +37,15 @@ public class CardRepository
    
     public bool AddCard(Card card)
     {
+<<<<<<< Updated upstream
         string insertQuery = "INSERT INTO Cards (Id, Name, Damage) VALUES (@Id, @Name, @Damage)";
         using (NpgsqlConnection conn = new NpgsqlConnection(DBManager.ConnectionString))
+=======
+        var (element, @class, type) = ExtractElementClassAndType(card.Name);
+
+        string insertQuery = "INSERT INTO Cards (Id, Name, Damage, Element, Class,Type) VALUES (@Id, @Name, @Damage, @Element, @Class, @Type)";
+        using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+>>>>>>> Stashed changes
         {
             conn.Open();
             using (NpgsqlCommand cmd = new NpgsqlCommand(insertQuery, conn))
@@ -43,6 +53,12 @@ public class CardRepository
                 cmd.Parameters.AddWithValue("@Id", card.Id);
                 cmd.Parameters.AddWithValue("@Name", card.Name);
                 cmd.Parameters.AddWithValue("@Damage", card.Damage);
+<<<<<<< Updated upstream
+=======
+                cmd.Parameters.AddWithValue("@Element", element);
+                cmd.Parameters.AddWithValue("@Class", @class);
+                cmd.Parameters.AddWithValue("@Type",type);
+>>>>>>> Stashed changes
 
                 int affectedRows = cmd.ExecuteNonQuery();
                 return affectedRows > 0;
@@ -50,6 +66,39 @@ public class CardRepository
         }
     }
 
+<<<<<<< Updated upstream
+=======
+    public (string Element, string Class, string Type) ExtractElementClassAndType(string cardName)
+    {
+        string element = cardName.Contains("Water") ? "Water" :
+            cardName.Contains("Fire") ? "Fire" :
+            cardName.Contains("Air") ? "Air" :
+            cardName.Contains("Ice") ? "Ice" :
+            cardName.Contains("Plant") ? "Plant" :
+            cardName.Contains("Electro") ? "Electro" :
+            cardName.Contains("Ground") ? "Ground" :
+            "Regular"; // Default element if no other matches
+
+        string @class = cardName.Contains("Dragon") ? "Dragon" :
+            cardName.Contains("Goblin") ? "Goblin" :
+            cardName.Contains("Spell") ? "Spell" :
+            cardName.Contains("Ork") ? "Ork" :
+            cardName.Contains("Wizzard") ? "Wizzard" :
+            cardName.Contains("Knight") ? "Knight" :
+            cardName.Contains("Kraken") ? "Kraken" :
+            cardName.Contains("Trap") ? "Trap" :
+            cardName.Contains("Elf") ? "Elf" :
+            cardName.Contains("Vampire") ? "Vampire" :
+            cardName.Contains("Dwarf") ? "Dwarf" :
+            cardName.Contains("Troll") ? "Troll" :
+            "Monster"; // Default class if no other matches
+
+        string type = (@class == "Spell" || @class == "Trap") ? "Spell" : "Monster"; // Type logic
+
+        return (element, @class, type);
+    }
+
+>>>>>>> Stashed changes
 
     public bool AddPackage(IEnumerable<Card> cards)
 {
@@ -112,13 +161,24 @@ public class CardRepository
 
     private bool AddCard(Card card, NpgsqlConnection conn, NpgsqlTransaction trans)
     {
+<<<<<<< Updated upstream
         string insertQuery = "INSERT INTO cards (Id, Name, Damage) VALUES (@Id, @Name, @Damage)";
+=======
+        var (element, @class,type) = ExtractElementClassAndType(card.Name);
+        string insertQuery = "INSERT INTO Cards (Id, Name, Damage, Element, Class,Type) VALUES (@Id, @Name, @Damage, @Element, @Class,@Type)";
+>>>>>>> Stashed changes
         using (var cmd = new NpgsqlCommand(insertQuery, conn, trans))
         {
             cmd.Parameters.AddWithValue("@Id", card.Id);
             cmd.Parameters.AddWithValue("@Name", card.Name);
             cmd.Parameters.AddWithValue("@Damage", card.Damage);
+<<<<<<< Updated upstream
 
+=======
+            cmd.Parameters.AddWithValue("@Element", element);
+            cmd.Parameters.AddWithValue("@Class", @class);
+            cmd.Parameters.AddWithValue("@Type", type);
+>>>>>>> Stashed changes
             int affectedRows = cmd.ExecuteNonQuery();
             return affectedRows > 0;
         }
@@ -203,7 +263,10 @@ public class CardRepository
                         {
                             Id = reader.GetGuid(reader.GetOrdinal("Id")),
                             Name = reader.GetString(reader.GetOrdinal("Name")),
-                            Damage = reader.GetFloat(reader.GetOrdinal("Damage"))
+                            Damage = reader.GetFloat(reader.GetOrdinal("Damage")),
+                            Element = reader.GetString(reader.GetOrdinal("Element")),
+                            Class = reader.GetString(reader.GetOrdinal("Class")),
+                            Type = reader.GetString(reader.GetOrdinal("Type"))
                         });
                     }
                 }
@@ -216,7 +279,7 @@ public class CardRepository
     {
         var cards = new List<CardDTO>();
         string selectQuery = @"
-            SELECT c.Id, c.Name, c.Damage 
+            SELECT c.Id, c.Name, c.Damage ,c.element ,c.class , c.type
             FROM Cards c
             INNER JOIN UserCards uc ON c.Id = uc.CardId
             WHERE uc.UserId = @UserId";
@@ -236,7 +299,10 @@ public class CardRepository
                         {
                             Id = reader.GetGuid(reader.GetOrdinal("Id")),
                             Name = reader.GetString(reader.GetOrdinal("Name")),
-                            Damage = reader.GetFloat(reader.GetOrdinal("Damage"))
+                            Damage = reader.GetFloat(reader.GetOrdinal("Damage")),
+                            Element = reader.GetString(reader.GetOrdinal("Element")),
+                            Class = reader.GetString(reader.GetOrdinal("Class")),
+                            Type = reader.GetString(reader.GetOrdinal("Type"))
                         });
                     }
                 }
@@ -270,7 +336,7 @@ public class CardRepository
     {
         var deck = new List<CardDTO>();
         string selectQuery = @"
-        SELECT c.Id, c.Name, c.Damage
+        SELECT c.Id, c.Name, c.Damage ,c.element ,c.class , c.type
         FROM Cards c
         INNER JOIN UserCards uc ON c.Id = uc.CardId
         WHERE uc.UserId = @UserId AND uc.InDeck = TRUE";
@@ -290,7 +356,12 @@ public class CardRepository
                         {
                             Id = reader.GetGuid(reader.GetOrdinal("Id")),
                             Name = reader.GetString(reader.GetOrdinal("Name")),
-                            Damage = reader.GetFloat(reader.GetOrdinal("Damage"))
+                            Element = reader.GetString(reader.GetOrdinal("Element")),
+                            Damage = reader.GetFloat(reader.GetOrdinal("Damage")),
+                            Class = reader.GetString(reader.GetOrdinal("Class")),
+                            Type = reader.GetString(reader.GetOrdinal("Type"))
+                            
+                            
                         });
                     }
                 }
@@ -298,4 +369,131 @@ public class CardRepository
         }
         return deck;
     }
+<<<<<<< Updated upstream
+=======
+
+    public IEnumerable<Card> GetCardsInDeck(int userId)
+    {
+        var cards = new List<Card>();
+        var query = "SELECT c.* FROM Cards c INNER JOIN UserCards uc ON c.Id = uc.CardId WHERE uc.UserId = @UserId AND uc.InDeck = TRUE";
+
+        using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+        {
+            conn.Open();
+            using (var cmd = new NpgsqlCommand(query, conn))
+            {
+                cmd.Parameters.AddWithValue("@UserId", userId);
+
+                using (var reader = cmd.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        cards.Add(new Card
+                        {
+                            Id = reader.GetGuid(reader.GetOrdinal("Id")),
+                            Name = reader.GetString(reader.GetOrdinal("Name")),
+                            Damage = reader.GetFloat(reader.GetOrdinal("Damage")),
+                            Class = reader.GetString(reader.GetOrdinal("Class")),
+                            Element = reader.GetString(reader.GetOrdinal("Element")),
+                            
+                            // Populate other properties if they exist
+                        });
+                    }
+                }
+            }
+        }
+
+        return cards;
+    }
+
+    public bool IsCardOwnedAndNotInDeck(Guid cardId, int userId)
+    {
+        Console.WriteLine($"Checking ownership for card ID: {cardId} and user ID: {userId}");
+
+        string query = @"
+        SELECT COUNT(*)
+        FROM UserCards
+        WHERE CardId = @CardId AND UserId = @userId AND InDeck = FALSE";
+        
+        using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+        using (var cmd = new NpgsqlCommand(query, conn))
+        {
+            cmd.Parameters.AddWithValue("@CardId", cardId);
+            cmd.Parameters.AddWithValue("@UserId", userId);
+        
+            conn.Open();
+        
+            int count = Convert.ToInt32(cmd.ExecuteScalar());
+            bool isOwnedAndNotInDeck = count > 0;
+
+            Console.WriteLine($"Card owned and not in deck: {isOwnedAndNotInDeck}");
+
+            return isOwnedAndNotInDeck; // If the count is greater than 0, the user owns the card and it's not in a deck
+        }
+    }
+
+    public Guid GetOldestPackageId()
+    {
+        using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+        {
+            conn.Open();
+        
+            using (var cmd = new NpgsqlCommand("SELECT PackageId FROM Packages ORDER BY CreatedTimestamp ASC LIMIT 1", conn))
+            {
+                using (var reader = cmd.ExecuteReader())
+                {
+                    if (reader.Read())
+                    {
+                        return reader.GetGuid(0); // Assuming the PackageId column is of type GUID
+                    }
+                    else
+                    {
+                        // No packages found in the database, return Guid.Empty or handle it as needed
+                        return Guid.Empty;
+                    }
+                }
+            }
+        }
+    }
+
+
+    public void DeleteCard(Guid cardId)
+    {
+        string deleteQuery = "DELETE FROM Cards WHERE Id = @Id";
+
+        using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+        {
+            conn.Open();
+            using (var cmd = new NpgsqlCommand(deleteQuery, conn))
+            {
+                cmd.Parameters.AddWithValue("@Id", cardId);
+                cmd.ExecuteNonQuery();
+            }
+        }
+    }
+
+    public Guid GetNewestPackageId()
+    {
+        using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+        {
+            conn.Open();
+        
+            using (var cmd = new NpgsqlCommand("SELECT PackageId FROM Packages ORDER BY CreatedTimestamp DESC LIMIT 1", conn))
+            {
+                using (var reader = cmd.ExecuteReader())
+                {
+                    if (reader.Read())
+                    {
+                        return reader.GetGuid(0); // Assuming the PackageId column is of type GUID
+                    }
+                    else
+                    {
+                        // No packages found in the database, return Guid.Empty or handle it as needed
+                        return Guid.Empty;
+                    }
+                }
+            }
+        }
+    }
+>>>>>>> Stashed changes
 }
