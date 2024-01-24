@@ -107,6 +107,7 @@ public class BattleService
     private void SaveBattleLog(int userId, int opponentId, StringBuilder battleLog)
     {
         string logFileName = $"BattleLog_{userId}_vs_{opponentId}_{DateTime.Now:yyyyMMddHHmmss}.txt";
+        string logDirectory = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Logs");
         File.WriteAllText(Path.Combine(logDirectory, logFileName), battleLog.ToString());
     }
 

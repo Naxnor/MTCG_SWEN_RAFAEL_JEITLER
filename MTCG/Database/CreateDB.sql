@@ -111,7 +111,15 @@ CREATE TABLE CardPackage (
 );
 
 
-
+CREATE TABLE IF NOT EXISTS trading_deals (
+                                             id              UUID            PRIMARY KEY,
+                                             CardToTrade     UUID            NOT NULL,
+                                             Type            VARCHAR(255)    NOT NULL,
+                                             MinimumDamage   FLOAT           NOT NULL,
+                                             UserId          serial          NOT NULL,
+                                             FOREIGN KEY (CardToTrade) REFERENCES Cards(Id)
+                                             
+);
 
 
 CREATE VIEW leaderboard AS
@@ -123,7 +131,8 @@ ORDER BY elo DESC, wins DESC;
 
 --Delete everything
 
-
+Drop table trading_deals;
+DELETE FROM trading_deals;
 DELETE FROM usercards;
 DELETE FROM Packages;
 Delete From Users;

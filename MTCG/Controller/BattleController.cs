@@ -10,12 +10,7 @@ public class BattleController
     private CardRepository _cardRepository;
     private BattleService _battleService;
 
-    public BattleController(UserRepository userRepository, CardRepository cardRepository, BattleService battleService)
-    {
-        _userRepository = userRepository;
-        _cardRepository = cardRepository;
-        _battleService = battleService;
-    }
+   
 
     public void StartBattle(HttpSvrEventArgs e)
     {

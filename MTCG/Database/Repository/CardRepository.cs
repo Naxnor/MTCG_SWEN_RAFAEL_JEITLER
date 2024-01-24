@@ -365,4 +365,30 @@ public class CardRepository
 
         return cards;
     }
+
+    public bool IsCardOwnedAndNotInDeck(Guid cardId, int userId)
+    {
+        Console.WriteLine($"Checking ownership for card ID: {cardId} and user ID: {userId}");
+
+        string query = @"
+        SELECT COUNT(*)
+        FROM UserCards
+        WHERE CardId = @CardId AND UserId = @userId AND InDeck = FALSE";
+        
+        using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+        using (var cmd = new NpgsqlCommand(query, conn))
+        {
+            cmd.Parameters.AddWithValue("@CardId", cardId);
+            cmd.Parameters.AddWithValue("@UserId", userId);
+        
+            conn.Open();
+        
+            int count = Convert.ToInt32(cmd.ExecuteScalar());
+            bool isOwnedAndNotInDeck = count > 0;
+
+            Console.WriteLine($"Card owned and not in deck: {isOwnedAndNotInDeck}");
+
+            return isOwnedAndNotInDeck; // If the count is greater than 0, the user owns the card and it's not in a deck
+        }
+    }
 }

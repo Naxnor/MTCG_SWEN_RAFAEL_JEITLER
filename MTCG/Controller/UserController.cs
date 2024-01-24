@@ -202,7 +202,7 @@ public class UserController
             return;
         }
         
-        var scoreboard = _userRepository.GetScoreboard(); // Implement this method
+        var scoreboard = _userRepository.GetScoreboard(); 
         if (scoreboard.Any())
         {
             var jsonResponse = JsonConvert.SerializeObject(scoreboard, Formatting.Indented);
@@ -265,7 +265,7 @@ public class UserController
         return null;
     }
     
-    private User ValidateTokenAndGetUser(string token)
+    public  User ValidateTokenAndGetUser(string token)
     {
         var tokenParts = token.Split('-');
         if (tokenParts.Length > 1)
