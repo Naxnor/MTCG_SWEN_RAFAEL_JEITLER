@@ -190,7 +190,7 @@ public class BattleService
 
 
 
-    private void UpdatePlayerStats(int userId, int opponentId, int userWins, int opponentWins, StringBuilder battleLog,
+    public void UpdatePlayerStats(int userId, int opponentId, int userWins, int opponentWins, StringBuilder battleLog,
         int rounds)
     {
         // Determine the result from user's perspective
@@ -208,7 +208,7 @@ public class BattleService
         SaveBattleLog(userId, opponentId, battleLog);
     }
 
-    private void SaveBattleLog(int userId, int opponentId, StringBuilder battleLog)
+    public void SaveBattleLog(int userId, int opponentId, StringBuilder battleLog)
     {
         string logFileName = $"BattleLog_{userId}_vs_{opponentId}_{DateTime.Now:yyyyMMddHHmmss}.txt";
         string projectDirectory = AppDomain.CurrentDomain.BaseDirectory; // Get the project directory
@@ -326,7 +326,7 @@ public class BattleService
         // In case of a draw, do nothing
     }
 
-    private RoundOutcome SimulateRound(Card userCard, Card opponentCard)
+    public RoundOutcome SimulateRound(Card userCard, Card opponentCard)
     {
         var outcome = new RoundOutcome();
         outcome.UserEffectiveDamage = CalculateEffectiveDamage(userCard, opponentCard);
@@ -352,7 +352,7 @@ public class BattleService
         return outcome;
     }
 
-    private float CalculateEffectiveDamage(Card attackingCard, Card defendingCard)
+    public float CalculateEffectiveDamage(Card attackingCard, Card defendingCard)
     {
         float damage = attackingCard.Damage;
 
@@ -451,7 +451,7 @@ public class BattleService
         Draw
     }
 
-    private Card ChooseCardForRound(List<Card> deck)
+    public Card ChooseCardForRound(List<Card> deck)
     {
         if (deck == null || deck.Count == 0)
         {

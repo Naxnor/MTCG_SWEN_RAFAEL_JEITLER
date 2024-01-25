@@ -31,6 +31,7 @@ namespace MTCG
             CardController _cardController = new CardController();
             TransactionController _transactionController = new TransactionController();
             BattleController _battleController = new BattleController();
+            
             if (e.Path.StartsWith("/users" )&& e.Method.Equals("POST"))
             {
                 _userController.CreateUser(e);
