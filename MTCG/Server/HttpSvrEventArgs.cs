@@ -142,13 +142,7 @@ namespace MTCG.Server
         }
 
         public object QueryString { get; set; }
-        public string ResponseContent { get; private set; }
-
-        // Set response content
-        public void SetResponseContent(string content)
-        {
-            ResponseContent = content;
-        }
+       
 
 
         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

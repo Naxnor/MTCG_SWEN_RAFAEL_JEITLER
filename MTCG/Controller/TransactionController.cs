@@ -1,5 +1,4 @@
-﻿using System.Formats.Asn1;
-using MTCG.Database;
+﻿using MTCG.Database;
 using MTCG.Database.Repository;
 using MTCG.Models;
 using MTCG.Server;
@@ -32,8 +31,6 @@ public class TransactionController
 
         // Fetch a random package of cards
         var packageId = _cardRepository.GetRandomPackageId();
-        var oldestPackageId = _cardRepository.GetOldestPackageId(); // delete for random 
-        packageId = oldestPackageId; // delete for random 
         if (packageId == Guid.Empty)
         {
             // Refund the coins if no package is available
@@ -55,10 +52,7 @@ public class TransactionController
         {
             Id = card.Id,
             Name = card.Name,
-            Damage = card.Damage,
-            Element = card.Element,
-            Class = card.Class,
-            Type = card.Type
+            Damage = card.Damage
         }).ToList();
 
 // Create a response object that includes both the cards and the success message
@@ -107,168 +101,3 @@ public class TransactionController
 
 
     }
-<<<<<<< Updated upstream
-=======
-
-    public void CreateTradingDeal(HttpSvrEventArgs e)
-    {
-        // Extract and validate the token
-        var authToken = UserController.ExtractAuthToken(e.Headers);
-        var user = _userController.ValidateTokenAndGetUser(authToken);
-        int userID = _userRepository.GetUserIdByUsername(user.Username);
-        
-        
-    
-        if (string.IsNullOrEmpty(authToken))
-        {
-            e.Reply(401, "Access token is missing or invalid");
-            return;
-        }
-
-        // Deserialize the request payload into a TradingDeal object
-        var tradingDeal = JsonConvert.DeserializeObject<TradingDeal>(e.Payload);
-
-        if (tradingDeal == null)
-        {
-            e.Reply(400, "Bad Request: Invalid trading deal data");
-            return;
-        }
-
-        // Check if the card is owned by the user and not in a deck
-        if (!_cardRepository.IsCardOwnedAndNotInDeck(tradingDeal.CardToTrade,userID))
-        {
-            e.Reply(403, "Forbidden: The card is not owned by the user or is in the deck");
-            return;
-        }
-
-        // Check if a deal with this ID already exists
-        if (_transactionRepository.DoesTradingDealExist(tradingDeal.Id))
-        {
-            e.Reply(409, "A deal with this deal ID already exists.");
-            return;
-        }
-
-        // Create the trading deal
-        if (_transactionRepository.CreateTradingDeal(tradingDeal, userID))
-        {
-            e.Reply(201, "Trading deal successfully created");
-        }
-        else
-        {
-            e.Reply(500, "Internal Server Error: Could not create trading deal");
-        }
-    }
-
-    public void GetTradingDeals(HttpSvrEventArgs e)
-    {
-        // Authenticate the user
-        var authToken = UserController.ExtractAuthToken(e.Headers);
-        var user = _userController.ValidateTokenAndGetUser(authToken);
-
-        if (user == null || string.IsNullOrEmpty(authToken))
-        {
-            e.Reply(401, "Access token is missing or invalid");
-            return;
-        }
-
-        // Fetch all trading deals
-        var deals = _transactionRepository.GetAllTradingDeals();
-
-        if (deals.Any())
-        {
-            // Serialize the trading deals to JSON
-            var dealsJson = JsonConvert.SerializeObject(deals, Formatting.Indented);
-            e.Reply(200, dealsJson);
-        }
-        else
-        {
-            e.Reply(204, "The request was fine, but there are no trading deals available");
-        }
-    }
-    public void DeleteTradingDeal(HttpSvrEventArgs e, Guid tradingDealId)
-    {
-        var authToken = UserController.ExtractAuthToken(e.Headers);
-        var user = _userController.ValidateTokenAndGetUser(authToken);
-        int userID = _userRepository.GetUserIdByUsername(user.Username);
-        
-        if (string.IsNullOrEmpty(authToken))
-        {
-            e.Reply(401, "Unauthorized: Access token is missing or invalid");
-            return;
-        }
-
-        if (!_transactionRepository.DoesTradingDealExist(tradingDealId))
-        {
-            e.Reply(404, "Not Found: The provided deal ID was not found.");
-            return;
-        }
-
-        if (!_transactionRepository.IsTradingDealOwnedByUser(tradingDealId, userID))
-        {
-            e.Reply(403, "Forbidden: The deal contains a card that is not owned by the user.");
-            return;
-        }
-        
-
-        if (_transactionRepository.DeleteTradingDeal(tradingDealId))
-        {
-            e.Reply(200, "Trading deal successfully deleted");
-        }
-        else
-        {
-            e.Reply(500, "Internal Server Error: Could not delete trading deal");
-        }
-    }
-
-
-    public void ExecuteTrade(HttpSvrEventArgs e, Guid tradingDealId)
-    {
-        // Extract and validate the token
-        var authToken = UserController.ExtractAuthToken(e.Headers);
-        var user = _userController.ValidateTokenAndGetUser(authToken);
-        int userID = _userRepository.GetUserIdByUsername(user.Username);
-        
-        if (string.IsNullOrEmpty(authToken))
-        {
-            e.Reply(401, "Access token is missing or invalid");
-            return;
-        }
-
-        // Deserialize the card ID from the request payload
-        var offeredCardId = JsonConvert.DeserializeObject<Guid>(e.Payload);
-
-        // Check if the trading deal exists and is not created by the requesting user
-        var tradingDeal = _transactionRepository.GetTradingDeal(tradingDealId);
-        if (tradingDeal == null)
-        {
-            e.Reply(404, "The provided deal ID was not found.");
-            return;
-        }
-        if (tradingDeal.UserId == userID)
-        {
-            e.Reply(403, "Trading with oneself is not allowed.");
-            return;
-        }
-
-        // Check if the offered card is owned by the user and meets the deal requirements
-        if (!_cardRepository.IsCardOwnedAndNotInDeck(offeredCardId, userID) ||
-            !_transactionRepository.DoesCardMeetTradeRequirements(offeredCardId, tradingDeal))
-        {
-            e.Reply(403, "The offered card is not owned by the user, or the requirements are not met (Type, MinimumDamage), or the offered card is locked in the deck.");
-            return;
-        }
-        
-        
-        // Execute the trade and delete the trading deal
-        if (_transactionRepository.ExecuteTradeAndDeleteDeal(offeredCardId, tradingDealId, userID))
-        {
-            e.Reply(200, "Trading deal successfully executed.");
-        }
-        else
-        {
-            e.Reply(500, "Internal Server Error: Could not execute the trading deal.");
-        }
-    }
-
-}
->>>>>>> Stashed changes
