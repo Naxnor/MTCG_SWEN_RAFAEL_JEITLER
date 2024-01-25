@@ -15,6 +15,12 @@
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dcfbf774_002Da343_002D45d1_002D990e_002De96ce8357f53/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;MTCGTesting&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Project Location="F:\MTCG_SWEN_RAFAEL_JEITLER\MTCGTesting" Presentation="&amp;lt;MTCGTesting&amp;gt;" /&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;Project Location="F:\MTCG_SWEN_RAFAEL_JEITLER\MTCGTesting" Presentation="&amp;lt;MTCGTesting&amp;gt;" /&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::968E91E4-6FBA-48AA-9AD2-60E8EF3F0EC7::net8.0::MTCGTesting.UserRepositoryIntegrationTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::968E91E4-6FBA-48AA-9AD2-60E8EF3F0EC7::net8.0::MTCGTesting.CardRepositoryIntegrationTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	</wpf:ResourceDictionary>

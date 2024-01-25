@@ -5,7 +5,7 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTCG", "MTCG\MTCG.csproj", "{EA94A80A-6B18-498B-8650-5D27898333F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTCGTesting", "MTCGTesting\MTCGTesting.csproj", "{80230CED-AD8A-4A75-8421-405C6E0C8F01}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTCGUnitTests", "MTCGUnitTests\MTCGUnitTests.csproj", "{968E91E4-6FBA-48AA-9AD2-60E8EF3F0EC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{EA94A80A-6B18-498B-8650-5D27898333F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA94A80A-6B18-498B-8650-5D27898333F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA94A80A-6B18-498B-8650-5D27898333F5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{80230CED-AD8A-4A75-8421-405C6E0C8F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{80230CED-AD8A-4A75-8421-405C6E0C8F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{80230CED-AD8A-4A75-8421-405C6E0C8F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{80230CED-AD8A-4A75-8421-405C6E0C8F01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{968E91E4-6FBA-48AA-9AD2-60E8EF3F0EC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{968E91E4-6FBA-48AA-9AD2-60E8EF3F0EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{968E91E4-6FBA-48AA-9AD2-60E8EF3F0EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{968E91E4-6FBA-48AA-9AD2-60E8EF3F0EC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
