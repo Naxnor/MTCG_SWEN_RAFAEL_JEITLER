@@ -10,13 +10,16 @@ namespace MTCG.Controller;
 
 public class TransactionController
 {
+    private TransactionRepository _transactionRepository = new TransactionRepository();
     private UserRepository _userRepository = new UserRepository();
     private CardRepository _cardRepository = new CardRepository();
+    private UserController _userController = new UserController();
 
     public void BuyPackage(HttpSvrEventArgs e)
     {
         // Get the user's ID from the token
-        var userId = GetUserIdFromToken(e); // Make sure this method is implemented to extract the user ID from the token
+        var userId =
+            GetUserIdFromToken(e); // Make sure this method is implemented to extract the user ID from the token
         if (userId == 0)
         {
             e.Reply(401, "Access token is missing or invalid");
@@ -48,6 +51,7 @@ public class TransactionController
         {
             _userRepository.AddCardToUser(userId, card.Id);
         }
+
         _cardRepository.DeletePackage(packageId);
 
         // Create a list of CardDTO objects
@@ -69,46 +73,43 @@ public class TransactionController
         };
 
 // Serialize the response object to JSON and send it back to the client
-        var jsonResponse = JsonConvert.SerializeObject(response, Formatting.Indented); // Use Formatting.Indented for a nicely formatted output
+        var jsonResponse =
+            JsonConvert.SerializeObject(response,
+                Formatting.Indented); // Use Formatting.Indented for a nicely formatted output
         e.Reply(200, jsonResponse);
     }
 
     private int GetUserIdFromToken(HttpSvrEventArgs e)
+    {
+        const string authHeaderKey = "Authorization";
+        const string tokenPrefix = "Bearer ";
+
+        string username = null;
+
+        foreach (var header in e.Headers)
         {
-            const string authHeaderKey = "Authorization";
-            const string tokenPrefix = "Bearer ";
-
-            string username = null;
-
-            foreach (var header in e.Headers)
+            if (header.Name.Equals(authHeaderKey, StringComparison.OrdinalIgnoreCase))
             {
-                if (header.Name.Equals(authHeaderKey, StringComparison.OrdinalIgnoreCase))
-                {
-                    var token = header.Value.StartsWith(tokenPrefix, StringComparison.OrdinalIgnoreCase)
-                        ? header.Value.Substring(tokenPrefix.Length)
-                        : header.Value;
+                var token = header.Value.StartsWith(tokenPrefix, StringComparison.OrdinalIgnoreCase)
+                    ? header.Value.Substring(tokenPrefix.Length)
+                    : header.Value;
 
-                    // Extract the username part from the token (assuming format "username-mtcgToken")
-                    var tokenParts = token.Split('-');
-                    if (tokenParts.Length > 0)
-                    {
-                        username = tokenParts[0];
-                    }
+                // Extract the username part from the token (assuming format "username-mtcgToken")
+                var tokenParts = token.Split('-');
+                if (tokenParts.Length > 0)
+                {
+                    username = tokenParts[0];
                 }
             }
-
-            if (username != null)
-            {
-                return _userRepository.GetUserIdByUsername(username);
-            }
-
-            return 0;
         }
 
+        if (username != null)
+        {
+            return _userRepository.GetUserIdByUsername(username);
+        }
 
+        return 0;
     }
-<<<<<<< Updated upstream
-=======
 
     public void CreateTradingDeal(HttpSvrEventArgs e)
     {
@@ -271,4 +272,3 @@ public class TransactionController
     }
 
 }
->>>>>>> Stashed changes

@@ -1,10 +1,12 @@
-﻿namespace MTCG.Database.Repository;
+﻿using MTCG.Controller;
+using MTCG.Models;
+using Npgsql;
+using NpgsqlTypes;
+
+namespace MTCG.Database.Repository;
 
 public class TransactionRepository
 {
-<<<<<<< Updated upstream
-    
-=======
     public bool DoesTradingDealExist(Guid Id)
     {
         
@@ -209,5 +211,4 @@ public class TransactionRepository
         }
     }
 
->>>>>>> Stashed changes
 }

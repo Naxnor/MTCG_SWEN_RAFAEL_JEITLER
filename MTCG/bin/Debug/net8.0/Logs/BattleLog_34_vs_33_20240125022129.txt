@@ -1,0 +1,4916 @@
+Round 1: Knight (Damage: 20) vs WaterGoblin (Damage: 999999)
+Winner: kienboec's WaterGoblin
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 2: RegularSpell (Damage: 45) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 3: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 4: Knight (Damage: 20) vs WaterGoblin (Damage: 999999)
+Winner: kienboec's WaterGoblin
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 5: WaterSpell (Damage: 22) vs WaterSpell (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 6: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 7: WaterSpell (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 8: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 9: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 10: RegularSpell (Damage: 28) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 11: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 12: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 13: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 14: WaterSpell (Damage: 22) vs WaterSpell (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 15: WaterSpell (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 16: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 17: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 18: RegularSpell (Damage: 45) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 19: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 20: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 21: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 22: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 23: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 24: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 25: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 26: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 27: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 28: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 29: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 30: Knight (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 31: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 32: WaterSpell (Damage: 22) vs WaterSpell (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 33: WaterSpell (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 34: WaterSpell (Damage: 22) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 35: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 36: WaterSpell (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 37: RegularSpell (Damage: 28) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 38: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 39: RegularSpell (Damage: 28) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 40: WaterSpell (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 41: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 42: WaterSpell (Damage: 22) vs WaterSpell (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 43: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 44: WaterSpell (Damage: 22) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 45: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 46: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 47: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 48: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 49: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 50: WaterSpell (Damage: 20) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 51: WaterSpell (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 52: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 53: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 54: WaterSpell (Damage: 20) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 55: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 56: RegularSpell (Damage: 45) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 57: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 58: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 59: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 60: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 61: RegularSpell (Damage: 45) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 62: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 63: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 64: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 65: RegularSpell (Damage: 45) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 66: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 67: Knight (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 68: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 69: WaterSpell (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 70: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 71: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 72: WaterSpell (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 73: RegularSpell (Damage: 45) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 74: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 75: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 76: Knight (Damage: 20) vs WaterGoblin (Damage: 999999)
+Winner: kienboec's WaterGoblin
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 77: RegularSpell (Damage: 45) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 78: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 79: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 80: RegularSpell (Damage: 28) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 81: WaterSpell (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 82: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 83: RegularSpell (Damage: 28) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 84: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 85: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 86: RegularSpell (Damage: 45) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 87: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 88: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 89: RegularSpell (Damage: 28) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 90: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 91: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 92: RegularSpell (Damage: 28) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 93: WaterSpell (Damage: 20) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 94: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 95: RegularSpell (Damage: 45) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 96: RegularSpell (Damage: 45) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 97: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 98: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 99: RegularSpell (Damage: 28) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 100: WaterSpell (Damage: 20) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 101: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 102: WaterSpell (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 103: WaterGoblin (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterGoblin
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 104: WaterSpell (Damage: 22) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 105: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 106: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 107: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 108: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 109: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 110: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 111: WaterSpell (Damage: 22) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 112: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 113: WaterSpell (Damage: 22) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 114: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 115: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 116: RegularSpell (Damage: 28) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 117: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 118: WaterGoblin (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterGoblin
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 119: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 120: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 121: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 122: WaterSpell (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 123: WaterSpell (Damage: 22) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 124: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 125: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 126: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 127: WaterSpell (Damage: 22) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 128: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 129: WaterSpell (Damage: 22) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 130: RegularSpell (Damage: 45) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 131: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 132: WaterSpell (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 133: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 134: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 135: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 136: RegularSpell (Damage: 45) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 137: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 138: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 139: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 140: RegularSpell (Damage: 45) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 141: RegularSpell (Damage: 45) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 142: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 143: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 144: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 145: RegularSpell (Damage: 28) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 146: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 147: RegularSpell (Damage: 28) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 148: WaterSpell (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 149: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 150: Knight (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 151: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 152: WaterGoblin (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterGoblin
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 153: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 154: WaterSpell (Damage: 22) vs WaterSpell (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 155: WaterSpell (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 156: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 157: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 158: WaterSpell (Damage: 22) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 159: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 160: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 161: RegularSpell (Damage: 28) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 162: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 163: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 164: WaterSpell (Damage: 22) vs WaterSpell (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 165: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 166: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 167: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 168: WaterSpell (Damage: 22) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 169: WaterSpell (Damage: 22) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 170: RegularSpell (Damage: 45) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 171: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 172: RegularSpell (Damage: 28) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 173: WaterSpell (Damage: 22) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 174: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 175: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 176: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 177: RegularSpell (Damage: 28) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 178: Knight (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 179: WaterSpell (Damage: 22) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 180: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 181: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 182: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 183: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 184: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 185: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 186: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 187: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 188: Knight (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 189: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 190: RegularSpell (Damage: 28) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 191: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 192: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 193: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 194: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 195: RegularSpell (Damage: 28) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 196: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 197: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 198: WaterSpell (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 199: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 200: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 201: RegularSpell (Damage: 28) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 202: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 203: WaterSpell (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 204: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 205: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 206: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 207: RegularSpell (Damage: 45) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 208: RegularSpell (Damage: 45) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 209: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 210: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 211: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 212: RegularSpell (Damage: 45) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 213: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 214: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 215: WaterSpell (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 216: Knight (Damage: 20) vs WaterGoblin (Damage: 999999)
+Winner: kienboec's WaterGoblin
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 217: RegularSpell (Damage: 45) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 218: WaterSpell (Damage: 22) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 219: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 220: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 221: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 222: RegularSpell (Damage: 28) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 223: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 224: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 225: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 226: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 227: RegularSpell (Damage: 45) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 228: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 229: RegularSpell (Damage: 45) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 230: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 231: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 232: WaterSpell (Damage: 22) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 233: WaterSpell (Damage: 20) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 234: WaterSpell (Damage: 20) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 235: WaterGoblin (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterGoblin
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 236: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 237: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 238: RegularSpell (Damage: 28) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 239: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 240: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 241: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 242: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 243: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 244: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 245: WaterSpell (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 246: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 247: RegularSpell (Damage: 28) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 248: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 249: Knight (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 250: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 251: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 252: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 253: WaterSpell (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 254: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 255: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 256: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 257: RegularSpell (Damage: 45) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 258: RegularSpell (Damage: 45) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 259: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 260: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 261: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 262: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 263: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 264: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 265: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 266: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 267: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 268: Knight (Damage: 20) vs WaterGoblin (Damage: 999999)
+Winner: kienboec's WaterGoblin
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 269: WaterSpell (Damage: 22) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 270: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 271: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 272: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 273: RegularSpell (Damage: 45) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 274: RegularSpell (Damage: 45) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 275: RegularSpell (Damage: 45) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 276: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 277: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 278: RegularSpell (Damage: 45) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 279: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 280: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 281: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 282: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 283: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 284: RegularSpell (Damage: 45) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 285: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 286: Knight (Damage: 20) vs WaterGoblin (Damage: 999999)
+Winner: kienboec's WaterGoblin
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 287: WaterSpell (Damage: 20) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 288: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 289: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 290: RegularSpell (Damage: 45) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 291: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 292: RegularSpell (Damage: 28) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 293: RegularSpell (Damage: 45) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 294: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 295: WaterGoblin (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterGoblin
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 296: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 297: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 298: WaterSpell (Damage: 20) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 299: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 300: WaterSpell (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 301: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 302: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 303: Knight (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 304: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 305: WaterSpell (Damage: 20) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 306: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 307: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 308: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 309: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 310: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 311: WaterSpell (Damage: 22) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 312: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 313: RegularSpell (Damage: 45) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 314: WaterSpell (Damage: 22) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 315: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 316: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 317: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 318: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 319: RegularSpell (Damage: 28) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 320: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 321: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 322: RegularSpell (Damage: 28) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 323: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 324: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 325: RegularSpell (Damage: 45) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 326: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 327: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 328: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 329: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 330: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 331: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 332: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 333: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 334: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 335: RegularSpell (Damage: 45) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 336: RegularSpell (Damage: 45) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 337: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 338: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 339: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 340: WaterSpell (Damage: 20) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 341: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 342: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 343: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 344: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 345: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 346: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 347: Knight (Damage: 20) vs WaterGoblin (Damage: 999999)
+Winner: kienboec's WaterGoblin
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 348: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 349: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 350: RegularSpell (Damage: 28) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 351: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 352: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 353: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 354: RegularSpell (Damage: 28) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 355: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 356: WaterSpell (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 357: WaterSpell (Damage: 20) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 358: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 359: Knight (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 360: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 361: RegularSpell (Damage: 28) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 362: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 363: RegularSpell (Damage: 28) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 364: RegularSpell (Damage: 28) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 365: WaterSpell (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 366: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 367: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 368: RegularSpell (Damage: 45) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 369: RegularSpell (Damage: 45) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 370: WaterSpell (Damage: 22) vs WaterSpell (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 371: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 372: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 373: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 374: RegularSpell (Damage: 45) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 375: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 376: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 377: RegularSpell (Damage: 45) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 378: WaterSpell (Damage: 20) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 379: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 380: WaterSpell (Damage: 20) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 381: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 382: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 383: RegularSpell (Damage: 45) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 384: RegularSpell (Damage: 28) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 385: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 386: WaterSpell (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 387: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 388: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 389: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 390: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 391: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 392: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 393: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 394: RegularSpell (Damage: 45) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 395: WaterSpell (Damage: 20) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 396: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 397: WaterSpell (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 398: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 399: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 400: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 401: WaterSpell (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 402: RegularSpell (Damage: 45) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 403: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 404: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 405: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 406: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 407: RegularSpell (Damage: 45) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 408: RegularSpell (Damage: 28) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 409: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 410: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 411: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 412: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 413: WaterSpell (Damage: 22) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 414: WaterSpell (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 415: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 416: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 417: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 418: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 419: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 420: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 421: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 422: WaterSpell (Damage: 20) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 423: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 424: Knight (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 425: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 426: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 427: WaterSpell (Damage: 20) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 428: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 429: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 430: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 431: WaterGoblin (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterGoblin
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 432: Knight (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 433: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 434: RegularSpell (Damage: 45) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 435: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 436: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 437: WaterGoblin (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterGoblin
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 438: RegularSpell (Damage: 45) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 439: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 440: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 441: WaterGoblin (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterGoblin
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 442: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 443: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 444: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 445: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 446: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 447: WaterSpell (Damage: 22) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 448: WaterSpell (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 449: WaterGoblin (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterGoblin
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 450: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 451: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 452: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 453: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 454: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 455: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 456: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 457: RegularSpell (Damage: 28) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 458: RegularSpell (Damage: 28) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 459: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 460: WaterSpell (Damage: 20) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 461: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 462: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 463: WaterGoblin (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterGoblin
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 464: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 465: RegularSpell (Damage: 45) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 466: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 467: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 468: RegularSpell (Damage: 28) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 469: RegularSpell (Damage: 28) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 470: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 471: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 472: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 473: RegularSpell (Damage: 28) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 474: RegularSpell (Damage: 28) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 475: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 476: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 477: WaterSpell (Damage: 20) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 478: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 479: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 480: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 481: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 482: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 483: WaterSpell (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 484: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 485: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 486: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 487: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 488: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 489: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 490: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 491: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 492: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 493: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 494: WaterGoblin (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterGoblin
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 495: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 496: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 497: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 498: RegularSpell (Damage: 45) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 499: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 500: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 501: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 502: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 503: Knight (Damage: 20) vs WaterGoblin (Damage: 999999)
+Winner: kienboec's WaterGoblin
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 504: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 505: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 506: WaterSpell (Damage: 22) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 507: RegularSpell (Damage: 28) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 508: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 509: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 510: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 511: WaterSpell (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 512: RegularSpell (Damage: 28) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 513: Knight (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 514: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 515: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 516: WaterSpell (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 517: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 518: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 519: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 520: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 521: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 522: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 523: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 524: RegularSpell (Damage: 45) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 525: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 526: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 527: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 528: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 529: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 530: RegularSpell (Damage: 45) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 531: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 532: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 533: WaterSpell (Damage: 22) vs WaterSpell (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 534: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 535: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 536: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 537: WaterSpell (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 538: WaterSpell (Damage: 22) vs WaterSpell (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 539: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 540: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 541: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 542: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 543: WaterSpell (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 544: Knight (Damage: 20) vs WaterGoblin (Damage: 999999)
+Winner: kienboec's WaterGoblin
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 545: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 546: WaterSpell (Damage: 22) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 547: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 548: RegularSpell (Damage: 45) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 549: WaterSpell (Damage: 22) vs WaterSpell (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 550: WaterSpell (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 551: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 552: Knight (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 553: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 554: RegularSpell (Damage: 45) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 555: WaterSpell (Damage: 22) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 556: RegularSpell (Damage: 45) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 557: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 558: WaterSpell (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 559: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 560: RegularSpell (Damage: 45) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 561: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 562: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 563: Knight (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 564: WaterSpell (Damage: 20) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 565: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 566: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 567: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 568: WaterGoblin (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterGoblin
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 569: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 570: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 571: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 572: WaterSpell (Damage: 22) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 573: WaterGoblin (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterGoblin
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 574: Knight (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 575: RegularSpell (Damage: 45) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 576: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 577: WaterSpell (Damage: 22) vs WaterSpell (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 578: RegularSpell (Damage: 45) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 579: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 580: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 581: RegularSpell (Damage: 45) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 582: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 583: RegularSpell (Damage: 45) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 584: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 585: RegularSpell (Damage: 28) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 586: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 587: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 588: WaterSpell (Damage: 20) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 589: RegularSpell (Damage: 28) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 590: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 591: RegularSpell (Damage: 45) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 592: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 593: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 594: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 595: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 596: RegularSpell (Damage: 45) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 597: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 598: WaterSpell (Damage: 22) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 599: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 600: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 601: RegularSpell (Damage: 45) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 602: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 603: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 604: WaterSpell (Damage: 22) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 605: WaterSpell (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 606: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 607: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 608: WaterSpell (Damage: 22) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 609: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 610: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 611: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 612: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 613: WaterGoblin (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterGoblin
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 614: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 615: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 616: WaterGoblin (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterGoblin
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 617: WaterSpell (Damage: 20) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 618: RegularSpell (Damage: 45) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 619: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 620: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 621: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 622: RegularSpell (Damage: 28) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 623: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 624: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 625: WaterSpell (Damage: 22) vs WaterSpell (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 626: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 627: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 628: RegularSpell (Damage: 45) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 629: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 630: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 631: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 632: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 633: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 634: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 635: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 636: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 637: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 638: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 639: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 640: WaterSpell (Damage: 22) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 641: WaterGoblin (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterGoblin
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 642: WaterSpell (Damage: 22) vs WaterSpell (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 643: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 644: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 645: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 646: WaterSpell (Damage: 20) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 647: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 648: WaterSpell (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 649: WaterSpell (Damage: 22) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 650: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 651: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 652: WaterSpell (Damage: 20) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 653: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 654: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 655: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 656: RegularSpell (Damage: 45) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 657: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 658: RegularSpell (Damage: 45) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 659: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 660: RegularSpell (Damage: 28) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 661: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 662: RegularSpell (Damage: 45) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 663: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 664: RegularSpell (Damage: 28) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 665: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 666: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 667: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 668: RegularSpell (Damage: 45) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 669: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 670: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 671: RegularSpell (Damage: 45) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 672: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 673: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 674: Knight (Damage: 20) vs WaterGoblin (Damage: 999999)
+Winner: kienboec's WaterGoblin
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 675: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 676: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 677: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 678: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 679: WaterSpell (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 680: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 681: WaterSpell (Damage: 22) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 682: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 683: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 684: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 685: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 686: WaterSpell (Damage: 20) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 687: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 688: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 689: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 690: WaterSpell (Damage: 22) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 691: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 692: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 693: RegularSpell (Damage: 45) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 694: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 695: WaterSpell (Damage: 22) vs WaterSpell (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 696: RegularSpell (Damage: 45) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 697: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 698: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 699: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 700: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 701: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 702: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 703: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 704: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 705: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 706: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 707: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 708: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 709: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 710: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 711: RegularSpell (Damage: 28) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 712: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 713: RegularSpell (Damage: 28) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 714: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 715: RegularSpell (Damage: 45) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 716: RegularSpell (Damage: 28) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 717: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 718: RegularSpell (Damage: 45) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 719: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 720: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 721: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 722: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 723: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 724: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 725: Knight (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 726: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 727: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 728: RegularSpell (Damage: 45) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 729: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 730: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 731: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 732: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 733: WaterSpell (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 734: WaterSpell (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 735: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 736: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 737: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 738: WaterSpell (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 739: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 740: RegularSpell (Damage: 28) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 741: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 742: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 743: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 744: Knight (Damage: 20) vs WaterGoblin (Damage: 999999)
+Winner: kienboec's WaterGoblin
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 745: WaterSpell (Damage: 22) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 746: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 747: RegularSpell (Damage: 28) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 748: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 749: RegularSpell (Damage: 28) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 750: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 751: WaterSpell (Damage: 22) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 752: WaterSpell (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 753: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 754: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 755: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 756: WaterSpell (Damage: 22) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 757: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 758: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 759: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 760: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 761: WaterGoblin (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterGoblin
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 762: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 763: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 764: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 765: RegularSpell (Damage: 45) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 766: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 767: WaterSpell (Damage: 20) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 768: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 769: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 770: RegularSpell (Damage: 45) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 771: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 772: RegularSpell (Damage: 45) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 773: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 774: RegularSpell (Damage: 45) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 775: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 776: WaterSpell (Damage: 22) vs WaterSpell (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 777: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 778: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 779: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 780: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 781: RegularSpell (Damage: 28) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 782: WaterSpell (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 783: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 784: WaterSpell (Damage: 22) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 785: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 786: WaterSpell (Damage: 22) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 787: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 788: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 789: RegularSpell (Damage: 28) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 790: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 791: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 792: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 793: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 794: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 795: WaterSpell (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 796: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 797: RegularSpell (Damage: 28) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 798: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 799: Knight (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 800: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 801: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 802: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 803: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 804: WaterSpell (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 805: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 806: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 807: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 808: RegularSpell (Damage: 28) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 809: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 810: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 811: WaterSpell (Damage: 20) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 812: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 813: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 814: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 815: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 816: WaterSpell (Damage: 20) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 817: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 818: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 819: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 820: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 821: RegularSpell (Damage: 28) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 822: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 823: RegularSpell (Damage: 28) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 824: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 825: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 826: Knight (Damage: 20) vs WaterGoblin (Damage: 999999)
+Winner: kienboec's WaterGoblin
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 827: RegularSpell (Damage: 28) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 828: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 829: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 830: WaterSpell (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 831: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 832: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 833: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 834: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 835: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 836: RegularSpell (Damage: 45) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 837: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 838: WaterGoblin (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterGoblin
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 839: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 840: Knight (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 841: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 842: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 843: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 844: RegularSpell (Damage: 45) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 845: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 846: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 847: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 848: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 849: WaterGoblin (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterGoblin
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 850: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 851: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 852: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 853: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 854: WaterSpell (Damage: 22) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 855: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 856: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 857: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 858: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 859: WaterSpell (Damage: 22) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 860: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 861: WaterGoblin (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterGoblin
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 862: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 863: RegularSpell (Damage: 28) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 864: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 865: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 866: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 867: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 868: WaterSpell (Damage: 20) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 869: WaterSpell (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 870: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 871: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 872: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 873: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 874: Knight (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 875: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 876: WaterSpell (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 877: WaterSpell (Damage: 22) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 878: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 879: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 880: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 881: WaterSpell (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 882: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 883: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 884: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 885: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 886: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 887: WaterSpell (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 888: Knight (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 889: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 890: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 891: WaterSpell (Damage: 22) vs WaterSpell (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 892: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 893: WaterSpell (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 894: WaterSpell (Damage: 22) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 895: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 896: RegularSpell (Damage: 45) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 897: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 898: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 899: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 900: RegularSpell (Damage: 45) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 901: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 902: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 903: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 904: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 905: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 906: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 907: Knight (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 908: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 909: WaterSpell (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 910: WaterSpell (Damage: 22) vs WaterSpell (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 911: WaterSpell (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 912: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 913: WaterSpell (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 914: WaterSpell (Damage: 22) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 915: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 916: WaterSpell (Damage: 20) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 917: Knight (Damage: 20) vs WaterGoblin (Damage: 999999)
+Winner: kienboec's WaterGoblin
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 918: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 919: WaterSpell (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 920: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 921: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 922: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 923: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 924: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 925: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 926: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 927: WaterSpell (Damage: 22) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 928: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 929: WaterGoblin (Damage: 10) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 930: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 931: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 932: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 933: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 934: RegularSpell (Damage: 45) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 935: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 936: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 937: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 938: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 939: RegularSpell (Damage: 45) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 940: RegularSpell (Damage: 45) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 941: RegularSpell (Damage: 45) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 942: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 943: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 944: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 945: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 946: WaterSpell (Damage: 22) vs WaterSpell (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 947: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 948: Knight (Damage: 20) vs WaterGoblin (Damage: 999999)
+Winner: kienboec's WaterGoblin
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 949: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 950: WaterGoblin (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterGoblin
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 951: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 952: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 953: WaterGoblin (Damage: 0) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 954: RegularSpell (Damage: 45) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 955: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 956: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 22)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 957: RegularSpell (Damage: 50) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 958: WaterSpell (Damage: 20) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 959: Knight (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 960: RegularSpell (Damage: 45) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 961: WaterSpell (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 962: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 963: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 964: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 965: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 966: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 967: RegularSpell (Damage: 50) vs Dragon (Damage: 50)
+Draw
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 968: WaterSpell (Damage: 22) vs WaterSpell (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 969: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 970: WaterSpell (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 971: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 972: Knight (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 973: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 974: RegularSpell (Damage: 50) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 975: RegularSpell (Damage: 50) vs RegularSpell (Damage: 28)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 976: WaterSpell (Damage: 22) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 977: WaterSpell (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 978: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 979: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 980: RegularSpell (Damage: 28) vs WaterSpell (Damage: 22)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 981: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 982: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 10)
+Winner: altenhof's RegularSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 983: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 984: WaterSpell (Damage: 22) vs WaterGoblin (Damage: 10)
+Winner: altenhof's WaterSpell
+kienboec's WaterGoblin is added to altenhof's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 985: RegularSpell (Damage: 28) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 986: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 7, kienboec: 1
+
+Round 987: WaterSpell (Damage: 20) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 988: RegularSpell (Damage: 28) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 989: RegularSpell (Damage: 45) vs WaterSpell (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's WaterSpell is added to altenhof's deck.
+Cards remaining - altenhof: 6, kienboec: 2
+
+Round 990: WaterSpell (Damage: 22) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 5, kienboec: 3
+
+Round 991: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 4, kienboec: 4
+
+Round 992: WaterSpell (Damage: 20) vs RegularSpell (Damage: 28)
+Winner: kienboec's RegularSpell
+altenhof's WaterSpell is added to kienboec's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 993: Knight (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 994: WaterGoblin (Damage: 999999) vs Knight (Damage: 20)
+Winner: altenhof's WaterGoblin
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 995: WaterGoblin (Damage: 10) vs WaterSpell (Damage: 20)
+Winner: kienboec's WaterSpell
+altenhof's WaterGoblin is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 996: Knight (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: kienboec's RegularSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Round 997: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: altenhof's RegularSpell
+kienboec's Knight is added to altenhof's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 998: RegularSpell (Damage: 50) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+kienboec's RegularSpell is added to altenhof's deck.
+Cards remaining - altenhof: 3, kienboec: 5
+
+Round 999: RegularSpell (Damage: 45) vs Dragon (Damage: 50)
+Winner: kienboec's Dragon
+altenhof's RegularSpell is added to kienboec's deck.
+Cards remaining - altenhof: 2, kienboec: 6
+
+Round 1000: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: kienboec's WaterSpell
+altenhof's Knight is added to kienboec's deck.
+Cards remaining - altenhof: 1, kienboec: 7
+
+Overall Winner: User kienboec with 459 rounds won

@@ -154,8 +154,65 @@ public class UserController
     }
 
 
+    public void GetUserStats(HttpSvrEventArgs e)
+    {
+        var authToken = ExtractAuthToken(e.Headers);
 
+        if (string.IsNullOrEmpty(authToken))
+        {
+            e.Reply(401, "Unauthorized! Access token is missing");
+            return ;
+        }
+        
+        var username = GetUsernameFromToken(e); // Extract username from token
+        
+        if (string.IsNullOrEmpty(username))
+        {
+            e.Reply(401, "Unauthorized: Missing or invalid token");
+            return;
+        }
 
+        var userStats = _userRepository.GetUserStatsByUsername(username);
+        if (userStats != null)
+        {
+            var jsonResponse = JsonConvert.SerializeObject(userStats, Formatting.Indented);
+            e.Reply(200, jsonResponse);
+        }
+        else
+        {
+            e.Reply(404, "User stats not found");
+        }
+    }
+
+    public void GetScoreboard(HttpSvrEventArgs e)
+    {
+        var authToken = ExtractAuthToken(e.Headers);
+
+        if (string.IsNullOrEmpty(authToken))
+        {
+            e.Reply(401, "Unauthorized! Access token is missing");
+            return ;
+        }
+        
+        var username = GetUsernameFromToken(e); // Extract username from token
+        
+        if (string.IsNullOrEmpty(username))
+        {
+            e.Reply(401, "Unauthorized: Missing or invalid token");
+            return;
+        }
+        
+        var scoreboard = _userRepository.GetScoreboard(); 
+        if (scoreboard.Any())
+        {
+            var jsonResponse = JsonConvert.SerializeObject(scoreboard, Formatting.Indented);
+            e.Reply(200, jsonResponse);
+        }
+        else
+        {
+            e.Reply(404, "Scoreboard is empty");
+        }
+    }
     
     private bool IsAuthorized(HttpSvrEventArgs e, string username)
     {
@@ -208,7 +265,7 @@ public class UserController
         return null;
     }
     
-    private User ValidateTokenAndGetUser(string token)
+    public  User ValidateTokenAndGetUser(string token)
     {
         var tokenParts = token.Split('-');
         if (tokenParts.Length > 1)
@@ -220,6 +277,31 @@ public class UserController
         }
         return null; // Token format is incorrect or user not found
     }
+
+    public static string GetUsernameFromToken(HttpSvrEventArgs e)
+    {
+        const string authHeaderKey = "Authorization";
+        const string tokenPrefix = "Bearer ";
+
+        foreach (var header in e.Headers)
+        {
+            if (header.Name.Equals(authHeaderKey, StringComparison.OrdinalIgnoreCase))
+            {
+                var token = header.Value.StartsWith(tokenPrefix, StringComparison.OrdinalIgnoreCase)
+                    ? header.Value.Substring(tokenPrefix.Length)
+                    : header.Value;
+
+                // Assuming the token format is "username-mtcgToken"
+                var tokenParts = token.Split('-');
+                if (tokenParts.Length > 1)
+                {
+                    return tokenParts[0]; // return the username part
+                }
+            }
+        }
+        return null; // or throw an appropriate exception
+    }
+    
 }
   
 

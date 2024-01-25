@@ -30,6 +30,7 @@ namespace MTCG
             UserController _userController = new UserController();
             CardController _cardController = new CardController();
             TransactionController _transactionController = new TransactionController();
+            BattleController _battleController = new BattleController();
             if (e.Path.StartsWith("/users" )&& e.Method.Equals("POST"))
             {
                 _userController.CreateUser(e);
@@ -66,8 +67,6 @@ namespace MTCG
             {
                 _cardController.ConfigureUserDeck(e);
             }
-<<<<<<< Updated upstream
-=======
             else if (e.Path.Equals("/stats") && e.Method.Equals("GET"))
             {
                 _userController.GetUserStats(e);
@@ -121,6 +120,7 @@ namespace MTCG
                     // Convert the tradingDealId to a Guid and call the DeleteTradingDeal method
                     if (Guid.TryParse(tradingDealId, out var guidTradingDealId))
                     {
+
                         _transactionController.ExecuteTrade(e, guidTradingDealId);
                     }
                     else
@@ -133,7 +133,7 @@ namespace MTCG
                     e.Reply(404, "Not Found: Trading deal ID is required");
                 }
             }
->>>>>>> Stashed changes
+
         }
     }
 }

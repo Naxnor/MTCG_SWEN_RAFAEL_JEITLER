@@ -124,8 +124,7 @@ public class UserRepository
         return null;
     }
     
-<<<<<<< Updated upstream
-=======
+
     public UserStats GetUserStatsByUsername(string username)
     {
         string selectQuery = "SELECT username, elo, wins, losses FROM users WHERE username = @username";
@@ -202,7 +201,7 @@ public class UserRepository
         return scoreboard;
     }
     
->>>>>>> Stashed changes
+
     public bool AuthenticateUser(string formnameUsername, string formnamePassword)
     {
         string selectQuery = "SELECT password FROM users WHERE username = @formnameUsername";

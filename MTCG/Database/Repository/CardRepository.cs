@@ -37,15 +37,12 @@ public class CardRepository
    
     public bool AddCard(Card card)
     {
-<<<<<<< Updated upstream
-        string insertQuery = "INSERT INTO Cards (Id, Name, Damage) VALUES (@Id, @Name, @Damage)";
-        using (NpgsqlConnection conn = new NpgsqlConnection(DBManager.ConnectionString))
-=======
+
         var (element, @class, type) = ExtractElementClassAndType(card.Name);
 
         string insertQuery = "INSERT INTO Cards (Id, Name, Damage, Element, Class,Type) VALUES (@Id, @Name, @Damage, @Element, @Class, @Type)";
         using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
->>>>>>> Stashed changes
+
         {
             conn.Open();
             using (NpgsqlCommand cmd = new NpgsqlCommand(insertQuery, conn))
@@ -53,12 +50,10 @@ public class CardRepository
                 cmd.Parameters.AddWithValue("@Id", card.Id);
                 cmd.Parameters.AddWithValue("@Name", card.Name);
                 cmd.Parameters.AddWithValue("@Damage", card.Damage);
-<<<<<<< Updated upstream
-=======
                 cmd.Parameters.AddWithValue("@Element", element);
                 cmd.Parameters.AddWithValue("@Class", @class);
                 cmd.Parameters.AddWithValue("@Type",type);
->>>>>>> Stashed changes
+
 
                 int affectedRows = cmd.ExecuteNonQuery();
                 return affectedRows > 0;
@@ -66,8 +61,6 @@ public class CardRepository
         }
     }
 
-<<<<<<< Updated upstream
-=======
     public (string Element, string Class, string Type) ExtractElementClassAndType(string cardName)
     {
         string element = cardName.Contains("Water") ? "Water" :
@@ -98,7 +91,6 @@ public class CardRepository
         return (element, @class, type);
     }
 
->>>>>>> Stashed changes
 
     public bool AddPackage(IEnumerable<Card> cards)
 {
@@ -161,24 +153,18 @@ public class CardRepository
 
     private bool AddCard(Card card, NpgsqlConnection conn, NpgsqlTransaction trans)
     {
-<<<<<<< Updated upstream
-        string insertQuery = "INSERT INTO cards (Id, Name, Damage) VALUES (@Id, @Name, @Damage)";
-=======
+
         var (element, @class,type) = ExtractElementClassAndType(card.Name);
         string insertQuery = "INSERT INTO Cards (Id, Name, Damage, Element, Class,Type) VALUES (@Id, @Name, @Damage, @Element, @Class,@Type)";
->>>>>>> Stashed changes
+
         using (var cmd = new NpgsqlCommand(insertQuery, conn, trans))
         {
             cmd.Parameters.AddWithValue("@Id", card.Id);
             cmd.Parameters.AddWithValue("@Name", card.Name);
             cmd.Parameters.AddWithValue("@Damage", card.Damage);
-<<<<<<< Updated upstream
-
-=======
             cmd.Parameters.AddWithValue("@Element", element);
             cmd.Parameters.AddWithValue("@Class", @class);
             cmd.Parameters.AddWithValue("@Type", type);
->>>>>>> Stashed changes
             int affectedRows = cmd.ExecuteNonQuery();
             return affectedRows > 0;
         }
@@ -369,8 +355,6 @@ public class CardRepository
         }
         return deck;
     }
-<<<<<<< Updated upstream
-=======
 
     public IEnumerable<Card> GetCardsInDeck(int userId)
     {
@@ -495,5 +479,5 @@ public class CardRepository
             }
         }
     }
->>>>>>> Stashed changes
+
 }
