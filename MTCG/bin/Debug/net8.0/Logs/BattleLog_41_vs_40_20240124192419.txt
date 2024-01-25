@@ -1,0 +1,40 @@
+Round 1: RegularSpell vs WaterGoblin
+Winner: RegularSpell
+
+Round 2: WaterGoblin vs Dragon
+Winner: Dragon
+
+Round 3: RegularSpell vs Ork
+Winner: RegularSpell
+
+Round 4: RegularSpell vs Dragon
+Winner: Dragon
+
+Round 5: WaterSpell vs WaterSpell
+Draw
+
+Round 6: WaterSpell vs RegularSpell
+Winner: RegularSpell
+
+Round 7: Ork vs WaterSpell
+Winner: Ork
+
+Round 8: RegularSpell vs WaterSpell
+Winner: RegularSpell
+
+Round 9: Ork vs RegularSpell
+Winner: RegularSpell
+
+Round 10: WaterSpell vs Ork
+Winner: Ork
+
+Round 11: WaterSpell vs RegularSpell
+Winner: RegularSpell
+
+Round 12: RegularSpell vs RegularSpell
+Winner: RegularSpell
+
+Round 13: Knight vs Ork
+Winner: Ork
+
+Overall Winner: User (Name: kienboec) with 8 rounds won

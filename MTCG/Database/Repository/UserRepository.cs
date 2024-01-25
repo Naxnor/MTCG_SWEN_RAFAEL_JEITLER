@@ -124,6 +124,85 @@ public class UserRepository
         return null;
     }
     
+<<<<<<< Updated upstream
+=======
+    public UserStats GetUserStatsByUsername(string username)
+    {
+        string selectQuery = "SELECT username, elo, wins, losses FROM users WHERE username = @username";
+        using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+        {
+            conn.Open();
+            using (var cmd = new NpgsqlCommand(selectQuery, conn))
+            {
+                cmd.Parameters.AddWithValue("@username", username);
+                using (var reader = cmd.ExecuteReader())
+                {
+                    if (reader.Read())
+                    {
+                        return new UserStats
+                        {
+                            Name = reader.GetString(reader.GetOrdinal("username")),
+                            Elo = reader.GetInt32(reader.GetOrdinal("elo")),
+                            Wins = reader.GetInt32(reader.GetOrdinal("wins")),
+                            Losses = reader.GetInt32(reader.GetOrdinal("losses")),
+                            WinLoseRatio = CalculateWinLoseRatio(reader.GetInt32(reader.GetOrdinal("wins")), reader.GetInt32(reader.GetOrdinal("losses")))
+                        };
+                    }
+                }
+            }
+        }
+        return null;
+    }
+
+    private double CalculateWinLoseRatio(int wins, int losses)
+    {
+        if (losses == 0)
+        {
+            if (wins > 0)
+            {
+                return 100.0; // 100% win ratio
+            }
+            else
+            {
+                return 0.0; // 0% win ratio (no wins and no losses)
+            }
+        }
+        else
+        {
+            return (double)wins / (wins + losses) * 100.0; // Calculate win ratio as a percentage
+        }
+    }
+
+    public IEnumerable<UserStats> GetScoreboard()
+    {
+        string selectQuery = "SELECT * FROM leaderboard"; 
+        var scoreboard = new List<UserStats>();
+        using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+        {
+            conn.Open();
+            using (var cmd = new NpgsqlCommand(selectQuery, conn))
+            {
+                using (var reader = cmd.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        scoreboard.Add(new UserStats
+                        {
+                            Name = reader.GetString(reader.GetOrdinal("username")),
+                            Elo = reader.GetInt32(reader.GetOrdinal("elo")),
+                            Wins = reader.GetInt32(reader.GetOrdinal("wins")),
+                            Losses = reader.GetInt32(reader.GetOrdinal("losses")),
+                            WinLoseRatio = CalculateWinLoseRatio(reader.GetInt32(reader.GetOrdinal("wins")), reader.GetInt32(reader.GetOrdinal("losses")))
+
+                        });
+                    }
+                }
+            }
+        }
+        return scoreboard;
+    }
+    
+>>>>>>> Stashed changes
     public bool AuthenticateUser(string formnameUsername, string formnamePassword)
     {
         string selectQuery = "SELECT password FROM users WHERE username = @formnameUsername";
@@ -219,5 +298,48 @@ public class UserRepository
                 return affectedRows > 0; // true if coins were successfully added
             }
         }
+    }
+    public void DeleteUser(string username)
+    {
+        string deleteQuery = "DELETE FROM users WHERE username = @username";
+
+        using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+        {
+            conn.Open();
+            using (var cmd = new NpgsqlCommand(deleteQuery, conn))
+            {
+                cmd.Parameters.AddWithValue("@username", username);
+                cmd.ExecuteNonQuery();
+            }
+        }
+    }
+    public User GetUserById(int userId)
+    {
+        User user = null;
+        string query = "SELECT * FROM users WHERE id = @userId";
+
+        using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+        {
+            conn.Open();
+            using (var cmd = new NpgsqlCommand(query, conn))
+            {
+                cmd.Parameters.AddWithValue("@userId", userId);
+
+                using (var reader = cmd.ExecuteReader())
+                {
+                    if (reader.Read())
+                    {
+                        user = new User
+                        {
+                            Id = reader.GetInt32(reader.GetOrdinal("id")),
+                            Username = reader.GetString(reader.GetOrdinal("username")),
+                            // Include other fields as needed
+                        };
+                    }
+                }
+            }
+        }
+
+        return user;
     }
 }

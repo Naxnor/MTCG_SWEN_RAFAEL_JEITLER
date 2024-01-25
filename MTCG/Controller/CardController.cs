@@ -4,6 +4,8 @@ using MTCG.Models;
 using MTCG.Server;
 using Newtonsoft.Json;
 using System.Linq;
+using System.Linq.Expressions;
+
 namespace MTCG.Database.Repository;
 
 public class CardController
@@ -107,7 +109,10 @@ public class CardController
         {
             Id = card.Id,
             Name = card.Name,
-            Damage = card.Damage
+            Damage = card.Damage,
+            Element = card.Element,
+            Class = card.Class,
+            Type = card.Type
         }).ToList();
 
 // Serialize the list of CardDTO objects with indentation
@@ -200,14 +205,14 @@ public class CardController
         var deck = _cardRepository.GetUserDeck(userId);
         if (!deck.Any())
         {
-            e.Reply(200, "The request was fine, but the deck doesn't have any cards"); // using 200 since 204 does not allow a payload 
+            e.Reply(204); 
             return;
         }
 
         string formatValue;
         if (e.QueryParameters.TryGetValue("format", out formatValue) && formatValue.Equals("plain", StringComparison.OrdinalIgnoreCase))
         {
-            var plainTextResponse = string.Join(Environment.NewLine, deck.Select(card => $"Id: {card.Id}, Name: {card.Name}, Damage: {card.Damage}"));
+            var plainTextResponse = string.Join(Environment.NewLine, deck.Select(card => $"Id: {card.Id}, Name: {card.Name}, Damage: {card.Damage}, Element: {card.Element}, Class: {card.Class}, Type: {card.Type}"));
             e.Reply(200, plainTextResponse);
         }
         else

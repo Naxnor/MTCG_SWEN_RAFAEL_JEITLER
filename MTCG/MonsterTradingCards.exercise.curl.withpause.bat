@@ -125,7 +125,7 @@ REM --------------------------------------------------
 echo 8) show all acquired cards kienboec
 curl -i -X GET http://localhost:10001/cards --header "Authorization: Bearer kienboec-mtcgToken"
 echo 8) show all acquired cards rafi
-curl -i -X GET http://localhost:10001/cards --header "Authorization: Bearer rafi-mtcgToken"
+curl -i -X GET http://localhost:10001/cards --header "Authorization: Bearer Rafi-mtcgToken"
 echo should fail (no token)
 curl -i -X GET http://localhost:10001/cards 
 echo.
@@ -153,7 +153,7 @@ pause
 
 REM --------------------------------------------------
 echo 11) configure deck
-curl -i -X PUT http://localhost:10001/deck --header "Content-Type: application/json" --header "Authorization: Bearer kienboec-mtcgToken" -d "[\"845f0dc7-37d0-426e-994e-43fc3ac83c08\", \"99f8f8dc-e25e-4a95-aa2c-782823f36e2a\", \"e85e3976-7c86-4d06-9a80-641c2019a79f\", \"171f6076-4eb5-4a7d-b3f2-2d650cc3d237\"]"
+curl -i -X PUT http://localhost:10001/deck --header "Content-Type: application/json" --header "Authorization: Bearer kienboec-mtcgToken" -d "[\"b017ee50-1c14-44e2-bfd6-2c0c5653a37c\", \"d04b736a-e874-4137-b191-638e0ff3b4e7\", \"88221cfe-1f84-41b9-8152-8e36c6a354de\", \"1d3f175b-c067-4359-989d-96562bfa382c\"]"
 echo.
 curl -i -X GET http://localhost:10001/deck --header "Authorization: Bearer kienboec-mtcgToken"
 echo.
@@ -253,10 +253,18 @@ echo.
 pause
 
 REM --------------------------------------------------
+<<<<<<< Updated upstream
 echo 17) battle
 start /b "kienboec battle" curl -i -X POST http://localhost:10001/battles --header "Authorization: Bearer kienboec-mtcgToken"
 start /b "altenhof battle" curl -i -X POST http://localhost:10001/battles --header "Authorization: Bearer altenhof-mtcgToken"
 ping localhost -n 10 >NUL 2>NUL
+=======
+    echo 17) battle
+    start /b "kienboec battle" curl -i -X POST http://localhost:10001/battles --header "Authorization: Bearer kienboec-mtcgToken"
+    start /b "altenhof battle" curl -i -X POST http://localhost:10001/battles --header "Authorization: Bearer altenhof-mtcgToken"
+    
+    ping localhost -n 10 >NUL 2>NUL
+>>>>>>> Stashed changes
 
 pause
 
@@ -286,7 +294,13 @@ echo check trading deals
 curl -i -X GET http://localhost:10001/tradings --header "Authorization: Bearer kienboec-mtcgToken"
 echo.
 echo create trading deal
+<<<<<<< Updated upstream
 curl -i -X POST http://localhost:10001/tradings --header "Content-Type: application/json" --header "Authorization: Bearer kienboec-mtcgToken" -d "{\"Id\": \"6cd85277-4590-49d4-b0cf-ba0a921faad0\", \"CardToTrade\": \"1cb6ab86-bdb2-47e5-b6e4-68c5ab389334\", \"Type\": \"monster\", \"MinimumDamage\": 15}"
+=======
+curl -i -X POST http://localhost:10001/tradings --header "Content-Type: application/json" --header "Authorization: Bearer kienboec-mtcgToken" -d "{\"Id\": \"6cd85277-4590-49d5-b0cf-ba0a921faad0\", \"CardToTrade\": \"b017ee50-1c14-44e2-bfd6-2c0c5653a37c\", \"Type\": \"Monster\", \"MinimumDamage\": 15}"
+
+curl -i -X POST http://localhost:10001/tradings --header "Content-Type: application/json" --header "Authorization: Bearer kienboec-mtcgToken" -d "{\"Id\": \"6cd85277-4590-49d4-b0cf-ba0a921faad0\", \"CardToTrade\": \"1cb6ab86-bdb2-47e5-b6e4-68c5ab389334\", \"Type\": \"Monster\", \"MinimumDamage\": 15}"
+>>>>>>> Stashed changes
 echo.
 
 pause
@@ -300,7 +314,7 @@ echo.
 pause
 
 echo delete trading deals
-curl -i -X DELETE http://localhost:10001/tradings/6cd85277-4590-49d4-b0cf-ba0a921faad0 --header "Authorization: Bearer kienboec-mtcgToken"
+curl -i -X DELETE http://localhost:10001/tradings/6cd85277-4590-49d5-b0cf-ba0a921faad0 --header "Authorization: Bearer kienboec-mtcgToken"
 echo.
 echo.
 
@@ -310,7 +324,7 @@ REM --------------------------------------------------
 echo 21) check trading deals
 curl -i -X GET http://localhost:10001/tradings  --header "Authorization: Bearer kienboec-mtcgToken"
 echo.
-curl -i -X POST http://localhost:10001/tradings --header "Content-Type: application/json" --header "Authorization: Bearer kienboec-mtcgToken" -d "{\"Id\": \"6cd85277-4590-49d4-b0cf-ba0a921faad0\", \"CardToTrade\": \"1cb6ab86-bdb2-47e5-b6e4-68c5ab389334\", \"Type\": \"monster\", \"MinimumDamage\": 15}"
+curl -i -X POST http://localhost:10001/tradings --header "Content-Type: application/json" --header "Authorization: Bearer kienboec-mtcgToken" -d "{\"Id\": \"6cd85277-4590-49d4-b0cf-ba0a921faad0\", \"CardToTrade\": \"1cb6ab86-bdb2-47e5-b6e4-68c5ab389334\", \"Class\": \"monster\", \"MinimumDamage\": 15}"
 echo check trading deals
 curl -i -X GET http://localhost:10001/tradings  --header "Authorization: Bearer kienboec-mtcgToken"
 echo.

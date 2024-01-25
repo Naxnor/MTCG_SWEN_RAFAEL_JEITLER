@@ -1,0 +1,94 @@
+Round 1: WaterSpell (Damage: 22) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+
+Round 2: Ork (Damage: 40) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+
+Round 3: WaterGoblin (Damage: 11) vs WaterSpell (Damage: 22)
+Winner: altenhof's WaterSpell
+
+Round 4: Dragon (Damage: 70) vs Knight (Damage: 20)
+Winner: kienboec's Dragon
+
+Round 5: Knight (Damage: 20) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+
+Round 6: Dragon (Damage: 70) vs Knight (Damage: 20)
+Winner: kienboec's Dragon
+
+Round 7: Dragon (Damage: 70) vs WaterSpell (Damage: 22)
+Winner: kienboec's Dragon
+
+Round 8: WaterSpell (Damage: 22) vs WaterSpell (Damage: 22)
+Draw
+
+Round 9: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: altenhof's WaterSpell
+
+Round 10: Dragon (Damage: 70) vs WaterGoblin (Damage: 0)
+Winner: kienboec's Dragon
+
+Round 11: WaterGoblin (Damage: 11) vs RegularSpell (Damage: 45)
+Winner: altenhof's RegularSpell
+
+Round 12: Dragon (Damage: 70) vs Ork (Damage: 40)
+Winner: kienboec's Dragon
+
+Round 13: Ork (Damage: 40) vs RegularSpell (Damage: 50)
+Winner: altenhof's RegularSpell
+
+Round 14: Dragon (Damage: 70) vs RegularSpell (Damage: 45)
+Winner: kienboec's Dragon
+
+Round 15: Dragon (Damage: 70) vs WaterSpell (Damage: 22)
+Winner: kienboec's Dragon
+
+Round 16: WaterSpell (Damage: 22) vs Ork (Damage: 40)
+Winner: altenhof's Ork
+
+Round 17: Dragon (Damage: 70) vs WaterGoblin (Damage: 0)
+Winner: kienboec's Dragon
+
+Round 18: WaterSpell (Damage: 22) vs RegularSpell (Damage: 50)
+Winner: altenhof's RegularSpell
+
+Round 19: RegularSpell (Damage: 45) vs WaterSpell (Damage: 22)
+Winner: kienboec's RegularSpell
+
+Round 20: Dragon (Damage: 70) vs RegularSpell (Damage: 50)
+Winner: kienboec's Dragon
+
+Round 21: Dragon (Damage: 70) vs Knight (Damage: 20)
+Winner: kienboec's Dragon
+
+Round 22: WaterGoblin (Damage: 11) vs WaterSpell (Damage: 22)
+Winner: altenhof's WaterSpell
+
+Round 23: WaterSpell (Damage: 22) vs Ork (Damage: 40)
+Winner: altenhof's Ork
+
+Round 24: RegularSpell (Damage: 50) vs WaterGoblin (Damage: 11)
+Winner: kienboec's RegularSpell
+
+Round 25: WaterGoblin (Damage: 11) vs WaterSpell (Damage: 22)
+Winner: altenhof's WaterSpell
+
+Round 26: Dragon (Damage: 70) vs WaterGoblin (Damage: 0)
+Winner: kienboec's Dragon
+
+Round 27: RegularSpell (Damage: 50) vs Ork (Damage: 40)
+Winner: kienboec's RegularSpell
+
+Round 28: Knight (Damage: 20) vs WaterSpell (Damage: 999999)
+Winner: altenhof's WaterSpell
+
+Round 29: Dragon (Damage: 70) vs WaterSpell (Damage: 22)
+Winner: kienboec's Dragon
+
+Round 30: RegularSpell (Damage: 50) vs Knight (Damage: 20)
+Winner: kienboec's RegularSpell
+
+Round 31: RegularSpell (Damage: 45) vs WaterSpell (Damage: 22)
+Winner: kienboec's RegularSpell
+
+Overall Winner: User (Name: kienboec) with 17 rounds won
