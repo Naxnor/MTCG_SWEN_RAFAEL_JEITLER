@@ -78,3 +78,14 @@ DELETE FROM Packages;
 Delete From Users;
 DELETE FROM Cards;
 DELETE FROM CardPackage;
+
+-- Reset all tables and their serial numbers
+TRUNCATE TABLE trading_deals CASCADE;
+TRUNCATE TABLE usercards CASCADE;
+TRUNCATE TABLE cardpackage CASCADE;
+TRUNCATE TABLE packages CASCADE;
+TRUNCATE TABLE cards CASCADE;
+TRUNCATE TABLE users CASCADE;
+
+-- Reset serial sequences (if necessary)
+ALTER SEQUENCE users_id_seq RESTART WITH 1;

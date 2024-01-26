@@ -91,7 +91,7 @@ namespace MTCG
             else if (e.Path.StartsWith("/tradings/") && e.Method.Equals("DELETE"))
             {
                     // Extract the tradingdealid from the path
-                    var tradingDealId = e.Path.Split('/').LastOrDefault(); // Assuming the last segment is the ID
+                    var tradingDealId = e.Path.Split('/').LastOrDefault(); 
 
                     // It's important to validate that tradingDealId is not null or empty before proceeding
                     if (!string.IsNullOrEmpty(tradingDealId))
@@ -113,12 +113,12 @@ namespace MTCG
             }
             else if (e.Path.StartsWith("/tradings/") && e.Method.Equals("POST"))
             {
-                var tradingDealId = e.Path.Split('/').LastOrDefault(); // Assuming the last segment is the ID
+                var tradingDealId = e.Path.Split('/').LastOrDefault(); // extract the  ID
 
-                // It's important to validate that tradingDealId is not null or empty before proceeding
+                // IValidate that tradingDealId is not null or empty before proceeding
                 if (!string.IsNullOrEmpty(tradingDealId))
                 {
-                    // Convert the tradingDealId to a Guid and call the DeleteTradingDeal method
+                    // Convert the tradingDealId to a Guid and call the Execute  method
                     if (Guid.TryParse(tradingDealId, out var guidTradingDealId))
                     {
 

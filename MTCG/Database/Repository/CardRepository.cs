@@ -379,8 +379,6 @@ public class CardRepository
                             Damage = reader.GetFloat(reader.GetOrdinal("Damage")),
                             Class = reader.GetString(reader.GetOrdinal("Class")),
                             Element = reader.GetString(reader.GetOrdinal("Element")),
-                            
-                            // Populate other properties if they exist
                         });
                     }
                 }
@@ -428,11 +426,11 @@ public class CardRepository
                 {
                     if (reader.Read())
                     {
-                        return reader.GetGuid(0); // Assuming the PackageId column is of type GUID
+                        return reader.GetGuid(0); 
                     }
                     else
                     {
-                        // No packages found in the database, return Guid.Empty or handle it as needed
+                       
                         return Guid.Empty;
                     }
                 }
@@ -468,11 +466,11 @@ public class CardRepository
                 {
                     if (reader.Read())
                     {
-                        return reader.GetGuid(0); // Assuming the PackageId column is of type GUID
+                        return reader.GetGuid(0); 
                     }
                     else
                     {
-                        // No packages found in the database, return Guid.Empty or handle it as needed
+                       
                         return Guid.Empty;
                     }
                 }

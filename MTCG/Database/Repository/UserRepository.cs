@@ -83,7 +83,7 @@ public class UserRepository
                 }
             }
         }
-        return 0; // or handle this case appropriately
+        return 0; 
     }
     
     public User? GetUserByUsername(string username)
@@ -163,7 +163,7 @@ public class UserRepository
             }
             else
             {
-                return 0.0; // 0% win ratio (no wins and no losses)
+                return 0.0; // 0% win ratio 
             }
         }
         else
@@ -272,7 +272,7 @@ public class UserRepository
             catch (Exception ex)
             {
                 Console.WriteLine($"Error updating user: {ex.Message}");
-                // Optionally: log the exception
+             
                 return false;
             }
             finally
@@ -332,7 +332,7 @@ public class UserRepository
                         {
                             Id = reader.GetInt32(reader.GetOrdinal("id")),
                             Username = reader.GetString(reader.GetOrdinal("username")),
-                            // Include other fields as needed
+                           
                         };
                     }
                 }

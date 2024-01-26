@@ -12,7 +12,7 @@ public class UserController
     public void CreateUser(HttpSvrEventArgs e)
     {
         var user = JsonConvert.DeserializeObject<User>(e.Payload);
-        //Console.WriteLine(user.Password);
+        //Console.WriteLine(user.Password); //Debug
         try
         {
             _userRepository.CreateUser(user);
@@ -291,7 +291,7 @@ public class UserController
                     ? header.Value.Substring(tokenPrefix.Length)
                     : header.Value;
 
-                // Assuming the token format is "username-mtcgToken"
+               
                 var tokenParts = token.Split('-');
                 if (tokenParts.Length > 1)
                 {
@@ -299,7 +299,7 @@ public class UserController
                 }
             }
         }
-        return null; // or throw an appropriate exception
+        return null; 
     }
     
 }

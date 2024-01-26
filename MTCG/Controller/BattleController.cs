@@ -9,7 +9,9 @@ public class BattleController
     private BattleService _battleService = new BattleService();
     private CardRepository _cardRepository = new CardRepository();
     private UserRepository _userRepository = new UserRepository();
-    
+
+    public Dictionary<int, bool> battleInProgress = new Dictionary<int, bool>();
+
     public void StartBattle(HttpSvrEventArgs e)
     {
    
@@ -53,25 +55,31 @@ public class BattleController
         var user = _userRepository.GetUserById(userId);
         var opponent = _userRepository.GetUserById(opponentId);
 
-        if (user == null || opponent == null)
+        if (battleInProgress.ContainsKey(userId) && battleInProgress[userId])
         {
-            e.Reply(500, "Internal Server Error: User or opponent not found");
+            e.Reply(409, "Conflict: Battle already in progress for user");
             return;
         }
-        
+
         try
         {
-            
-            string battleLog = _battleService.StartBattle(userId, user.Username, opponentId, opponent.Username, deck,opponentDeck);            e.Reply(200, battleLog);
+            battleInProgress[userId] = true;
+            string battleLog = _battleService.StartBattle(userId, user.Username, opponentId, opponent.Username, deck, opponentDeck);
+            e.Reply(200, battleLog);
         }
         catch (Exception ex)
         {
             e.Reply(500, $"Internal Server Error: {ex.Message}");
         }
+        finally
+        {
+            battleInProgress[userId] = false;
+        }
+    }
     }
     
     
     
-}
+
 
 

@@ -81,7 +81,7 @@ public class CardController
     public void GetAllUserCards(HttpSvrEventArgs e)
     {
         // Extract the user ID from the token
-        var username = GetUsernameFromToken(e); // Implement this method based on your token structure
+        var username = GetUsernameFromToken(e); 
         if (string.IsNullOrEmpty(username))
         {
             e.Reply(401, "Unauthorized: Access token is missing or invalid");
@@ -100,7 +100,7 @@ public class CardController
         var cards = _cardRepository.GetUserCards(userId);
         if (!cards.Any())
         {
-            e.Reply(200, "The request was fine but, The user doesn't have any cards"); // using 200 since 204 does not allow a payload
+            e.Reply(204); 
             return;
         }
 
@@ -116,9 +116,9 @@ public class CardController
         }).ToList();
 
 // Serialize the list of CardDTO objects with indentation
-        var jsonResponse = JsonConvert.SerializeObject(cardDtos, Formatting.Indented);
+        var jsonResponse = JsonConvert.SerializeObject(cardDtos, Formatting.Indented); // Formatting here
 
-// Send the nicely formatted JSON response back to the client
+// Send the  formatted JSON response back to the client
         e.Reply(200, jsonResponse);
     }
     
@@ -135,7 +135,7 @@ public class CardController
                     ? header.Value.Substring(tokenPrefix.Length)
                     : header.Value;
 
-                // Assuming the token format is "username-mtcgToken"
+                // Split Token format : "username-mtcgToken"
                 var tokenParts = token.Split('-');
                 if (tokenParts.Length > 1)
                 {
@@ -143,7 +143,7 @@ public class CardController
                 }
             }
         }
-        return null; // or throw an appropriate exception
+        return null!; 
     }
     
     public void ConfigureUserDeck(HttpSvrEventArgs e)
@@ -189,7 +189,7 @@ public class CardController
     
     public void GetUserDeck(HttpSvrEventArgs e)
     {
-        var username = GetUsernameFromToken(e); // Implement this based on your token structure
+        var username = GetUsernameFromToken(e);
         if (string.IsNullOrEmpty(username))
         {
             e.Reply(401, "Unauthorized: Missing or invalid token");
@@ -211,7 +211,7 @@ public class CardController
         }
 
         string formatValue;
-        if (e.QueryParameters.TryGetValue("format", out formatValue) && formatValue.Equals("plain", StringComparison.OrdinalIgnoreCase))
+        if (e.QueryParameters.TryGetValue("format", out formatValue!) && formatValue.Equals("plain", StringComparison.OrdinalIgnoreCase))
         {
             var plainTextResponse = string.Join(Environment.NewLine, deck.Select(card => $"Id: {card.Id}, Name: {card.Name}, Damage: {card.Damage}, Element: {card.Element}, Class: {card.Class}, Type: {card.Type}"));
             e.Reply(200, plainTextResponse);

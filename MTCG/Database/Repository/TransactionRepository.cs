@@ -16,7 +16,7 @@ public class TransactionRepository
 
             using (NpgsqlCommand cmd = new NpgsqlCommand("SELECT COUNT(*) FROM trading_deals WHERE id = @id", conn))
             {
-                // Use the NpgsqlDbType.Uuid to specify the type of the parameter explicitly.
+               
                 cmd.Parameters.Add(new NpgsqlParameter("id", NpgsqlDbType.Uuid) { Value = Id });
 
                 int count = Convert.ToInt32(cmd.ExecuteScalar());

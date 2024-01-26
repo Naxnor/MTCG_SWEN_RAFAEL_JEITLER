@@ -19,7 +19,7 @@ public class TransactionController
     {
         // Get the user's ID from the token
         var userId =
-            GetUserIdFromToken(e); // Make sure this method is implemented to extract the user ID from the token
+            GetUserIdFromToken(e); 
         if (userId == 0)
         {
             e.Reply(401, "Access token is missing or invalid");
@@ -27,7 +27,7 @@ public class TransactionController
         }
 
         // Deduct coins from the user's account
-        if (!_userRepository.DeductCoins(userId, 5)) // Assuming a package costs 5 coins
+        if (!_userRepository.DeductCoins(userId, 5)) // 5 = Price change if needed
         {
             e.Reply(403, "\t\n\nNot enough money for buying a card package");
             return;
@@ -65,7 +65,7 @@ public class TransactionController
             Type = card.Type
         }).ToList();
 
-// Create a response object that includes both the cards and the success message
+// Create a response object that includes both the cards and the success message // Change if not needed like this!
         var response = new
         {
             Message = "A package has been successfully bought",
@@ -75,7 +75,7 @@ public class TransactionController
 // Serialize the response object to JSON and send it back to the client
         var jsonResponse =
             JsonConvert.SerializeObject(response,
-                Formatting.Indented); // Use Formatting.Indented for a nicely formatted output
+                Formatting.Indented); // Use Formatting.Indented for a formatted output
         e.Reply(200, jsonResponse);
     }
 
@@ -94,7 +94,7 @@ public class TransactionController
                     ? header.Value.Substring(tokenPrefix.Length)
                     : header.Value;
 
-                // Extract the username part from the token (assuming format "username-mtcgToken")
+                // Extract the username part from the token 
                 var tokenParts = token.Split('-');
                 if (tokenParts.Length > 0)
                 {
