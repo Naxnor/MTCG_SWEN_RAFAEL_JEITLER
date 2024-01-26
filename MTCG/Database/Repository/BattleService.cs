@@ -168,28 +168,54 @@ public class BattleService
             return battleLog.ToString();
         }
 
-
-
-
+        
 
         public void UpdatePlayerStats(int userId, int opponentId, int userWins, int opponentWins,
-            StringBuilder battleLog,
-            int rounds)
+            StringBuilder battleLog, int rounds)
         {
-            // Determine the result from user's perspective
             string result;
-            /*if (rounds >= 100) result = "draw"; // uncomment for always draw in curl
-            else*/
-            if (userWins > opponentWins) result = "win";
-            else if (userWins < opponentWins) result = "loss";
-            else result = "draw";
+            int? winnerId = null;
 
-            // Update Elo ratings and stats in the database
+            if (userWins > opponentWins)
+            {
+                result = "win";
+                winnerId = userId;
+            }
+            else if (userWins < opponentWins)
+            {
+                result = "loss";
+                winnerId = opponentId;
+            }
+            else
+            {
+                result = "draw"; // winnerId remains null
+            }
+
             UpdateEloRatings(userId, opponentId, result);
-
-            // Save the battle log
             SaveBattleLog(userId, opponentId, battleLog);
+            SaveBattleResult(userId, opponentId, winnerId, battleLog);
         }
+
+        private void SaveBattleResult(int userId1, int userId2, int? winnerId, StringBuilder battleLog)
+        {
+            using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+            {
+                conn.Open();
+                using (var cmd = new NpgsqlCommand())
+                {
+                    cmd.Connection = conn;
+                    cmd.CommandText = @"
+            INSERT INTO Battles (UserId1, UserId2, WinnerId, BattleLog)
+            VALUES (@UserId1, @UserId2, @WinnerId, @BattleLog);";
+                    cmd.Parameters.AddWithValue("@UserId1", userId1);
+                    cmd.Parameters.AddWithValue("@UserId2", userId2);
+                    cmd.Parameters.AddWithValue("@WinnerId", (object)winnerId ?? DBNull.Value);
+                    cmd.Parameters.AddWithValue("@BattleLog", battleLog.ToString());
+                    cmd.ExecuteNonQuery();
+                }
+            }
+        }
+
 
         public void SaveBattleLog(int userId, int opponentId, StringBuilder battleLog)
         {

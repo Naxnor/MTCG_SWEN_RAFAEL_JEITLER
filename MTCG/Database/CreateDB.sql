@@ -67,6 +67,18 @@ SELECT username, elo, wins, losses
 FROM users
 ORDER BY elo DESC, wins DESC;
 
+CREATE TABLE Battles (
+                         BattleId SERIAL PRIMARY KEY,
+                         UserId1 INT NOT NULL,
+                         UserId2 INT NOT NULL,
+                         WinnerId INT,
+                         Timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+                         BattleLog TEXT,
+                         FOREIGN KEY (UserId1) REFERENCES Users(id),
+                         FOREIGN KEY (UserId2) REFERENCES Users(id),
+                         FOREIGN KEY (WinnerId) REFERENCES Users(id)
+);
+
 
 
 --Delete everything

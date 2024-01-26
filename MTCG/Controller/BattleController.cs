@@ -1,6 +1,8 @@
-﻿using MTCG.Database.Repository;
+﻿using MTCG.Database;
+using MTCG.Database.Repository;
 using MTCG.Models;
 using MTCG.Server;
+using Npgsql;
 
 namespace MTCG.Controller;
 
@@ -41,13 +43,17 @@ public class BattleController
         var deck = _battleService.ConvertDeckDtoToDeck(deckDto); // Convert DTO to actual Card objects
 
         int opponentId = _battleService.EnterLobby(userId);
+        if (HasRecentlyFought(userId))
+        {
+            string battleLog = GetLatestBattleLog(userId);
+            e.Reply(200, battleLog); // Send the battle log as a response
+            return;
+        }
         if (opponentId == 0)
         {
             e.Reply(202, "Accepted: Waiting for an opponent");
             return;
         }
-
-        // Debugging: Print decks
         
         var opponentDeckDto = _cardRepository.GetUserDeck(opponentId);
         var opponentDeck = _battleService.ConvertDeckDtoToDeck(opponentDeckDto);
@@ -76,6 +82,53 @@ public class BattleController
             battleInProgress[userId] = false;
         }
     }
+    private bool HasRecentlyFought(int userId)
+    {
+        using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+        {
+            conn.Open();
+            using (var cmd = new NpgsqlCommand())
+            {
+                cmd.Connection = conn;
+                cmd.CommandText = @"
+                SELECT COUNT(*)
+                FROM Battles
+                WHERE (UserId1 = @UserId OR UserId2 = @UserId)
+                  AND Timestamp > NOW() - INTERVAL '5 seconds'";
+                cmd.Parameters.AddWithValue("@UserId", userId);
+                int count = Convert.ToInt32(cmd.ExecuteScalar());
+                return count > 0;
+            }
+        }
+    }
+
+    private string GetLatestBattleLog(int userId)
+    {
+        using (var conn = new NpgsqlConnection(DBManager.ConnectionString))
+        {
+            conn.Open();
+            using (var cmd = new NpgsqlCommand())
+            {
+                cmd.Connection = conn;
+                cmd.CommandText = @"
+                SELECT BattleLog
+                FROM Battles
+                WHERE (UserId1 = @UserId OR UserId2 = @UserId)
+                ORDER BY Timestamp DESC
+                LIMIT 1";
+                cmd.Parameters.AddWithValue("@UserId", userId);
+                using (var reader = cmd.ExecuteReader())
+                {
+                    if (reader.Read())
+                    {
+                        return reader.GetString(0); // Assuming BattleLog is stored as a text
+                    }
+                }
+            }
+        }
+        return "No recent battle found."; // Or handle this case as you see fit
+    }
+
     }
     
     
